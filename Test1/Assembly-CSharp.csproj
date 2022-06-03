@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scrips\PlayerData.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scrips\test.cs" />
     <Compile Include="Assets\Scrips\SimpleCameraController.cs" />
     <Compile Include="Assets\Scrips\CharaterData.cs" />
