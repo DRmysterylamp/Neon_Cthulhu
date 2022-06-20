@@ -21,15 +21,16 @@ public class PlayerMovement : MonoBehaviour
 
     private Vector3 velocity;
     private bool isGround;
+
     private void Awake()
     {
         chara = GetComponent<CharacterController>();
         playerData = GetComponent<PlayerData>();
-        
     }
     private void Update()
     {
         Movement();
+        Test();
     }
     
     void Movement()
@@ -68,5 +69,37 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            playerData.CurrentHealth -= 2;
+        }
+        Debug.Log(playerData.CurrentHealth);
 
+        
+    }
+
+    void Test()
+    {
+        var ray = new Ray(transform.position, transform.right);
+      
+        RaycastHit rh;
+        if (Physics.Raycast(ray, out rh,1f))
+        {
+            
+            if (rh.collider.gameObject.CompareTag("Enemy"))
+            {
+                playerData.CurrentHealth -= 2;
+                Debug.Log(playerData.CurrentHealth);
+                if (playerData.CurrentHealth <= 0)
+                {
+                    Debug.Log("player die");
+
+                    playerData.MaxHealth <<= 1;
+                    playerData.CurrentHealth = playerData.MaxHealth;
+                }
+            }
+        }
+    }
 }
