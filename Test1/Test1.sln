@@ -1,18 +1,31 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1095E53F-7F02-0617-B751-54D5BB06C4F4}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{3e278834-cf89-be00-8358-0f06af05c747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProPixelizer", "ProPixelizer.csproj", "{809f15ba-c65b-783d-7af3-0291cb81c5d9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3fe59510-027f-1706-b751-54d5bb06c4f4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{3cee473a-0a85-eb45-f146-91f4a42c6754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{7ea6dfa8-704d-7385-c702-4a4141580575}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1095E53F-7F02-0617-B751-54D5BB06C4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1095E53F-7F02-0617-B751-54D5BB06C4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1095E53F-7F02-0617-B751-54D5BB06C4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1095E53F-7F02-0617-B751-54D5BB06C4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3e278834-cf89-be00-8358-0f06af05c747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3e278834-cf89-be00-8358-0f06af05c747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809f15ba-c65b-783d-7af3-0291cb81c5d9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809f15ba-c65b-783d-7af3-0291cb81c5d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3fe59510-027f-1706-b751-54d5bb06c4f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3fe59510-027f-1706-b751-54d5bb06c4f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3cee473a-0a85-eb45-f146-91f4a42c6754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3cee473a-0a85-eb45-f146-91f4a42c6754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ea6dfa8-704d-7385-c702-4a4141580575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ea6dfa8-704d-7385-c702-4a4141580575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
