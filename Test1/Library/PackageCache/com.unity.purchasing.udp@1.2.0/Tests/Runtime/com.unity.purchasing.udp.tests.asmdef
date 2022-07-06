@@ -1,0 +1,13 @@
+{
+    "name": "com.unity.purchasing.udp.Tests",
+    "references": [
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "precompiledReferences": [
+        "UDP.dll"
+    ],
+    "excludePlatforms": []
+}

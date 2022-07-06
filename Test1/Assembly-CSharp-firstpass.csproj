@@ -657,41 +657,8 @@
     <Reference Include="Unity.TextMeshPro">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Searcher.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

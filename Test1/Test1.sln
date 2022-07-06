@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProPixelizer", "ProPixelize
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3fe59510-027f-1706-b751-54d5bb06c4f4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{3cee473a-0a85-eb45-f146-91f4a42c6754}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{7ea6dfa8-704d-7385-c702-4a4141580575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{3cee473a-0a85-eb45-f146-91f4a42c6754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{809f15ba-c65b-783d-7af3-0291cb81c5d9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3fe59510-027f-1706-b751-54d5bb06c4f4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3fe59510-027f-1706-b751-54d5bb06c4f4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3cee473a-0a85-eb45-f146-91f4a42c6754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3cee473a-0a85-eb45-f146-91f4a42c6754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ea6dfa8-704d-7385-c702-4a4141580575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7ea6dfa8-704d-7385-c702-4a4141580575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3cee473a-0a85-eb45-f146-91f4a42c6754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3cee473a-0a85-eb45-f146-91f4a42c6754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

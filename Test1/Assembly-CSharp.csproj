@@ -36,33 +36,119 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scrips/Lights/VolumetricLight.cs" />
-     <Compile Include="Assets/Scrips/SimpleCameraController.cs" />
-     <Compile Include="Assets/Scrips/CharaterData.cs" />
-     <Compile Include="Assets/Scrips/PlayerData.cs" />
-     <Compile Include="Assets/Scrips/Lights/VolumetricLightRenderer.cs" />
-     <Compile Include="Assets/Scrips/PlayerMovement.cs" />
-     <Compile Include="Assets/Scrips/test.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/ForceShieldDestroyBall.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/CameraDepthActivation.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/ForceShieldImpactDetection.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/VolumetricSphere.cs" />
+     <Compile Include="Assets/Scrips/Lights/VolumetricLight.cs" />
+     <Compile Include="Assets/Scrips/SimpleCameraController.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/URPASPVersionInfo.cs" />
+     <Compile Include="Assets/Scrips/CharaterData.cs" />
+     <Compile Include="Assets/Test/Spawner.cs" />
+     <Compile Include="Assets/Scrips/PlayerData.cs" />
+     <Compile Include="Assets/Scrips/Lights/VolumetricLightRenderer.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SpriteMaskController.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Readme/ASPReadme.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/ForceShieldShootBall.cs" />
+     <Compile Include="Assets/Scrips/PlayerMovement.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Pixelize.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/PlaneClip.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/HDRPASPVersionInfo.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/VersionInfo.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/CustomRTRainUpdate.cs" />
+     <Compile Include="Assets/Puppet/Runtime/Dancer.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SimpleMoveExample.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SimpleGPUInstancingExample.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Smear.cs" />
+     <Compile Include="Assets/Scrips/test.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SRPURPOmniDecalMovement.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/highlightAnimated.cs" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community ForceShield/ForceShield.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Substance2018+/Readme.txt" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/WorldPosSLices/WorldPosSlices.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community SingleChannelMasking/SingleChannelMasking.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/AnimatedUVDistortion/AnimatedUVDistortion.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Burn/BurnEffect.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community LowPolyWater/LowPolyWater.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community 2Sided/2Sided.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Decal SciFi Panels/SciFiPanelDecal.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ReflectRefractSoapBubble/ReflectRefractSoapBubble.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/SimpleNoise/SimpleNoise.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ParallaxOcclusionMappingPOM/SandPOM.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Omni Decal/Omni Decal.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Extrusion/NormalExtrusion.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ScaleIndependentTile/ScaleIndependentTile.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/SimplePotionLiquid/SimpleGlass.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/DoubleLayerCustomSurface/DoubleLayerCustomSurface.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Coverage/Coverage.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/XRay/XRay.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/CubemapReflections/CubemapReflections.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/RimLight/RimLight.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/TextureArray/TextureArray.shader" />
      <None Include="Assets/AmplifyShaderPack/Readme.txt" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ObjectNormalRefraction/ShaderBallInterior.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Toon Outline/Toon Outline.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/UISpriteFX/UISpriteFX 3.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Stencil Portals/Refraction Panel/Stencil Refraction Panel.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Translucency/Translucency.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/SimpleGPUInstancing/SimpleGPUInstancing.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Terrain/TerrainWater.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community HighlightAnimated/Highlight_Animated.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Tessellation/Tessellation.shader" />
+     <None Include="Assets/AmplifyShaderPack/Assets/URP/Shaders/Floor_Dirt.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Dithering/DitheringFadeBlueNoise.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/UV Light Reveal/UV Light Reveal.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/MaskedUI/MaskedUI.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/AnimatedFire/AnimatedFire.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ParallaxMapping/ParallaxMappingIterations.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Terrain/SRP Universal Terrain Base Pass.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/TriplanarProjection/TriplanarSimple.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ReadFromAtlasTiled/ReadFromAtlasTiled.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Matcap/MatcapSample.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/PlaneClip/ClipArea.shader" />
      <None Include="Assets/AmplifyShaderPack/ChangeLog.txt" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/SimpleBlur/SimpleBlur.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Stencil Portals/Write/Stencil Portal Write.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Simple and Masked Sprites/SpritesMask.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Smear/Smear.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/UISpriteFX/UISpriteFX.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ScreenSpaceCurvature/ScreenSpaceCurvature.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Dithering/DitheringFade.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community HologramSimple/Hologram Simple.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ParallaxOffsetFakeInterior/ParallaxWindow.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Transparent and Cutout/SimpleURPCutout.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Stencil Portals/Read/Stencil Portal Read.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ScreenSpaceDetail/ScreenSpaceDetail.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Simple and Masked Sprites/SimpleSprite.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/TwoSidedWithFace/TwoSideWithFace.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/TriplanarProjection/TriplanarProjection.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ObjectNormalRefraction/ObjectNormalRefraction.shader" />
+     <None Include="Assets/AmplifyShaderPack/Assets/URP/Shaders/Screen.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Transmission/Transmission.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/XRay/ProceduralWall.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Transparent and Cutout/SimpleURPTransparent.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/VertexNormalReconstruction/VertexNormalReconstruction.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/GlintSparkle/SRP Universal GlintSparkle.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/2D Fractal/SRP Universal 2D Fractal.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/PlaneClip/PlaneClip.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Water/WaterSample.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/RadialUVDistortion/RadialUVDistortion.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/LetItFlow/LetItFlow.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Decals Muddy Ground/GroundDecals.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/PositionCutoff/LocalPosCutoff.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community EnvironmentGradient/MourEnvironmentGradient.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Water/Ground.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community Dissolve Burn/DissolveBurn.shader" />
+     <None Include="Assets/AmplifyShaderPack/Assets/URP/Shaders/BrushedMetal.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/SimpleRefraction/SimpleRefraction.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/LetItFlow/Totem.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Terrain/SRP Universal Terrain Add Pass.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Terrain/SRP Universal Terrain First Pass.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Vector Displacement Mapping - TV/Vector Displacement Mapping.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/OrientationBasedSprite/OrientationBasedSprite.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/SimplePotionLiquid/SimplePotionLiquid.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/ReadFromAtlasTiled/ImprovedReadFromAtlasTiled.shader" />
+     <None Include="Assets/AmplifyShaderPack/URP Samples/Community Melting/Melting.shader" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -603,38 +689,17 @@
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Searcher.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
@@ -642,23 +707,11 @@
     <Reference Include="Unity.Rider.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.TextMeshPro">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
