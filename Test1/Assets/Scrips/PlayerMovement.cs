@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask GroundMask;
 
     private CharacterController chara;
-    private PlayerData playerData;
+    private PlayerDataManager playerData;
 
     private Vector3 velocity;
     private bool isGround;
@@ -25,7 +25,13 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         chara = GetComponent<CharacterController>();
-        playerData = GetComponent<PlayerData>();
+        playerData = GetComponent<PlayerDataManager>();
+        
+    }
+    private void Start()
+    {
+        Debug.Log(ItemManager.Instance);
+        ItemManager.Instance.updateData += UpdateData;
     }
     private void Update()
     {
@@ -69,16 +75,6 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy"))
-        {
-            playerData.CurrentHealth -= 2;
-        }
-        Debug.Log(playerData.CurrentHealth);
-
-        
-    }
 
     void Test()
     {
@@ -101,5 +97,10 @@ public class PlayerMovement : MonoBehaviour
                 }
             }
         }
+    }
+
+    public void UpdateData(int data)
+    {
+        playerData.CurrentHealth -= data;
     }
 }

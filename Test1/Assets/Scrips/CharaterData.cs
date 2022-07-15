@@ -11,4 +11,13 @@ public class CharaterData : ScriptableObject
     public int currentHealth;
 
     public int attack;
+
+
+    public bool isFear;     //¿Ö¾å£»
+    public bool isAnger;    //ÉúÆø£»
+    public bool isConfuse;  //À§»ó;
+
+    public bool eyeOpen;
+    public bool earOpen;
+
 }

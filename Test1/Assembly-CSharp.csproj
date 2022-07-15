@@ -56,11 +56,17 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scrips\PlayerData.cs" />
-    <Compile Include="Assets\Scrips\test.cs" />
+    <Compile Include="Assets\Scrips\Virtual\PropTest.cs" />
+    <Compile Include="Assets\Scrips\Virtual\ItemManager.cs" />
+    <Compile Include="Assets\Scrips\PropBase.cs" />
+    <Compile Include="Assets\Scrips\AnyTest.cs" />
+    <Compile Include="Assets\Scrips\PlayerDataManager.cs" />
+    <Compile Include="Assets\Scrips\Virtual\VirtualTest.cs" />
     <Compile Include="Assets\Scrips\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scrips\VirtualCamera.cs" />
     <Compile Include="Assets\Scrips\CharaterData.cs" />
     <Compile Include="Assets\Scrips\PlayerMovement.cs" />
+    <Compile Include="Assets\Scrips\DialogSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
