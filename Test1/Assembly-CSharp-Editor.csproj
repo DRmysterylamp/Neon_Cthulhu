@@ -42,6 +42,7 @@
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Readme/Editor/ASPReadmeEditor.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Editor/ASPPackageManagerHelper.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Editor/ASPStartScreen.cs" />
+     <Compile Include="Assets/Pixelate/Scripts/Editor/PixelateEditor.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

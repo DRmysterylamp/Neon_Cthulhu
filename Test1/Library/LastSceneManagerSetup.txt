@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Test/Party.unity
+- path: Assets/Pixelate/Scenes/Capturing.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
