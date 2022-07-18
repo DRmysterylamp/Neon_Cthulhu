@@ -282,6 +282,9 @@
     <Reference Include="UnityEditor">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="UDP">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0/Runtime/UDP.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
@@ -633,29 +636,110 @@
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Animation.Runtime">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Klak.Math">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Klak.Spout.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Spout.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Searcher.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Animation.Triangle.Runtime">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Klak.Motion">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Motion.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.purchasing.udp.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/com.unity.purchasing.udp.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Klak.Motion.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Motion.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.001">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Runtime">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Animation.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Klak.Spout.Runtime">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Spout.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>

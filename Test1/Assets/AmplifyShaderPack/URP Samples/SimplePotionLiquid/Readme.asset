@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e78934177bebe0545ab566bb787b0282, type: 3}
-  m_Name: Readme 2
+  m_Name: Readme
   m_EditorClassIdentifier: 
   Icon: {fileID: 2800000, guid: c033541d58f45e543b11cc10be8ae58f, type: 3}
   Title: Simple Potion Liquid

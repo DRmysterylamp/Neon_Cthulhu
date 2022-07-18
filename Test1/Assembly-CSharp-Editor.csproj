@@ -639,6 +639,9 @@
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Klak.Math">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Math.dll</HintPath>
+    </Reference>
     <Reference Include="Klak.Spout.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Spout.Editor.dll</HintPath>
     </Reference>
@@ -669,6 +672,9 @@
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Klak.Motion">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Motion.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
@@ -677,6 +683,9 @@
     </Reference>
     <Reference Include="com.unity.purchasing.udp.Editor">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/com.unity.purchasing.udp.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Klak.Motion.Editor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Motion.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
@@ -722,15 +731,6 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Klak.Math">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Math.dll</HintPath>
-    </Reference>
-    <Reference Include="Klak.Motion">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Motion.dll</HintPath>
-    </Reference>
-    <Reference Include="Klak.Motion.Editor">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/ScriptAssemblies/Klak.Motion.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
