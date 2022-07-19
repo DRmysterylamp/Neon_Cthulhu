@@ -77,6 +77,14 @@
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/DynamicOcclusionAbstractBase.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/TransformUtils.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/DynamicOcclusionDepthBuffer.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/shadergen_includes_hdrp.txt" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/VolumetricLightBeamShared.cginc" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/shadergen_includes_urp.txt" />
@@ -89,6 +97,7 @@
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/VLBGeneratedShader.shader" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/ShaderDefines.cginc" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Readme.txt" />
+     <None Include="Assets/Plugins/Demigiant/DOTween/readme.txt" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/ShaderPropertySystem.cginc" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/ShaderMaths.cginc" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/shadergen_includes_builtin.txt" />
@@ -284,6 +293,9 @@
     </Reference>
     <Reference Include="UDP">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0/Runtime/UDP.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

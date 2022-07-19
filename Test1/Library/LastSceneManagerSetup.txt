@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Pixelate/Scenes/Capturing.unity
+- path: Assets/Scenes/Level00Bar.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
