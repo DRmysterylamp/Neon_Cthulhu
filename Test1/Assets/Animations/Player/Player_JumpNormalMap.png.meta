@@ -324,9 +324,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1040
-        width: 130
-        height: 130
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Player_JumpNormalMap_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 1040
-        width: 130
-        height: 130
+        x: 180
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: Player_JumpNormalMap_2
       rect:
         serializedVersion: 2
-        x: 260
-        y: 1040
-        width: 130
-        height: 130
+        x: 360
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: Player_JumpNormalMap_3
       rect:
         serializedVersion: 2
-        x: 390
-        y: 1040
-        width: 130
-        height: 130
+        x: 540
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: Player_JumpNormalMap_4
       rect:
         serializedVersion: 2
-        x: 520
-        y: 1040
-        width: 130
-        height: 130
+        x: 720
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: Player_JumpNormalMap_5
       rect:
         serializedVersion: 2
-        x: 650
-        y: 1040
-        width: 130
-        height: 130
+        x: 900
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: Player_JumpNormalMap_6
       rect:
         serializedVersion: 2
-        x: 780
-        y: 1040
-        width: 130
-        height: 130
+        x: 1080
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: Player_JumpNormalMap_7
       rect:
         serializedVersion: 2
-        x: 910
-        y: 1040
-        width: 130
-        height: 130
+        x: 1260
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +491,10 @@ TextureImporter:
       name: Player_JumpNormalMap_8
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 1040
-        width: 130
-        height: 130
+        x: 1440
+        y: 1440
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,9 +513,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 910
-        width: 130
-        height: 130
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: Player_JumpNormalMap_10
       rect:
         serializedVersion: 2
-        x: 130
-        y: 910
-        width: 130
-        height: 130
+        x: 180
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: Player_JumpNormalMap_11
       rect:
         serializedVersion: 2
-        x: 260
-        y: 910
-        width: 130
-        height: 130
+        x: 360
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: Player_JumpNormalMap_12
       rect:
         serializedVersion: 2
-        x: 390
-        y: 910
-        width: 130
-        height: 130
+        x: 540
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: Player_JumpNormalMap_13
       rect:
         serializedVersion: 2
-        x: 520
-        y: 910
-        width: 130
-        height: 130
+        x: 720
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: Player_JumpNormalMap_14
       rect:
         serializedVersion: 2
-        x: 650
-        y: 910
-        width: 130
-        height: 130
+        x: 900
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: Player_JumpNormalMap_15
       rect:
         serializedVersion: 2
-        x: 780
-        y: 910
-        width: 130
-        height: 130
+        x: 1080
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: Player_JumpNormalMap_16
       rect:
         serializedVersion: 2
-        x: 910
-        y: 910
-        width: 130
-        height: 130
+        x: 1260
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: Player_JumpNormalMap_17
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 910
-        width: 130
-        height: 130
+        x: 1440
+        y: 1260
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -702,9 +702,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 780
-        width: 130
-        height: 130
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: Player_JumpNormalMap_19
       rect:
         serializedVersion: 2
-        x: 130
-        y: 780
-        width: 130
-        height: 130
+        x: 180
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: Player_JumpNormalMap_20
       rect:
         serializedVersion: 2
-        x: 260
-        y: 780
-        width: 130
-        height: 130
+        x: 360
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: Player_JumpNormalMap_21
       rect:
         serializedVersion: 2
-        x: 390
-        y: 780
-        width: 130
-        height: 130
+        x: 540
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: Player_JumpNormalMap_22
       rect:
         serializedVersion: 2
-        x: 520
-        y: 780
-        width: 130
-        height: 130
+        x: 720
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: Player_JumpNormalMap_23
       rect:
         serializedVersion: 2
-        x: 650
-        y: 780
-        width: 130
-        height: 130
+        x: 900
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: Player_JumpNormalMap_24
       rect:
         serializedVersion: 2
-        x: 780
-        y: 780
-        width: 130
-        height: 130
+        x: 1080
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: Player_JumpNormalMap_25
       rect:
         serializedVersion: 2
-        x: 910
-        y: 780
-        width: 130
-        height: 130
+        x: 1260
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: Player_JumpNormalMap_26
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 780
-        width: 130
-        height: 130
+        x: 1440
+        y: 1080
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,9 +891,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 650
-        width: 130
-        height: 130
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -911,10 +911,10 @@ TextureImporter:
       name: Player_JumpNormalMap_28
       rect:
         serializedVersion: 2
-        x: 130
-        y: 650
-        width: 130
-        height: 130
+        x: 180
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: Player_JumpNormalMap_29
       rect:
         serializedVersion: 2
-        x: 260
-        y: 650
-        width: 130
-        height: 130
+        x: 360
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +953,10 @@ TextureImporter:
       name: Player_JumpNormalMap_30
       rect:
         serializedVersion: 2
-        x: 390
-        y: 650
-        width: 130
-        height: 130
+        x: 540
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -974,10 +974,10 @@ TextureImporter:
       name: Player_JumpNormalMap_31
       rect:
         serializedVersion: 2
-        x: 520
-        y: 650
-        width: 130
-        height: 130
+        x: 720
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -995,10 +995,10 @@ TextureImporter:
       name: Player_JumpNormalMap_32
       rect:
         serializedVersion: 2
-        x: 650
-        y: 650
-        width: 130
-        height: 130
+        x: 900
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1016,10 +1016,10 @@ TextureImporter:
       name: Player_JumpNormalMap_33
       rect:
         serializedVersion: 2
-        x: 780
-        y: 650
-        width: 130
-        height: 130
+        x: 1080
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1037,10 +1037,10 @@ TextureImporter:
       name: Player_JumpNormalMap_34
       rect:
         serializedVersion: 2
-        x: 910
-        y: 650
-        width: 130
-        height: 130
+        x: 1260
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: Player_JumpNormalMap_35
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 650
-        width: 130
-        height: 130
+        x: 1440
+        y: 900
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1080,9 +1080,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 520
-        width: 130
-        height: 130
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: Player_JumpNormalMap_37
       rect:
         serializedVersion: 2
-        x: 130
-        y: 520
-        width: 130
-        height: 130
+        x: 180
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1121,10 +1121,10 @@ TextureImporter:
       name: Player_JumpNormalMap_38
       rect:
         serializedVersion: 2
-        x: 260
-        y: 520
-        width: 130
-        height: 130
+        x: 360
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,10 +1142,10 @@ TextureImporter:
       name: Player_JumpNormalMap_39
       rect:
         serializedVersion: 2
-        x: 390
-        y: 520
-        width: 130
-        height: 130
+        x: 540
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1163,10 +1163,10 @@ TextureImporter:
       name: Player_JumpNormalMap_40
       rect:
         serializedVersion: 2
-        x: 520
-        y: 520
-        width: 130
-        height: 130
+        x: 720
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1184,10 +1184,10 @@ TextureImporter:
       name: Player_JumpNormalMap_41
       rect:
         serializedVersion: 2
-        x: 650
-        y: 520
-        width: 130
-        height: 130
+        x: 900
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1205,10 +1205,10 @@ TextureImporter:
       name: Player_JumpNormalMap_42
       rect:
         serializedVersion: 2
-        x: 780
-        y: 520
-        width: 130
-        height: 130
+        x: 1080
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1226,10 +1226,10 @@ TextureImporter:
       name: Player_JumpNormalMap_43
       rect:
         serializedVersion: 2
-        x: 910
-        y: 520
-        width: 130
-        height: 130
+        x: 1260
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1247,10 +1247,10 @@ TextureImporter:
       name: Player_JumpNormalMap_44
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 520
-        width: 130
-        height: 130
+        x: 1440
+        y: 720
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1269,9 +1269,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 390
-        width: 130
-        height: 130
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1289,10 +1289,10 @@ TextureImporter:
       name: Player_JumpNormalMap_46
       rect:
         serializedVersion: 2
-        x: 130
-        y: 390
-        width: 130
-        height: 130
+        x: 180
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
       name: Player_JumpNormalMap_47
       rect:
         serializedVersion: 2
-        x: 260
-        y: 390
-        width: 130
-        height: 130
+        x: 360
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1331,10 @@ TextureImporter:
       name: Player_JumpNormalMap_48
       rect:
         serializedVersion: 2
-        x: 390
-        y: 390
-        width: 130
-        height: 130
+        x: 540
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1352,10 +1352,10 @@ TextureImporter:
       name: Player_JumpNormalMap_49
       rect:
         serializedVersion: 2
-        x: 520
-        y: 390
-        width: 130
-        height: 130
+        x: 720
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1373,10 +1373,10 @@ TextureImporter:
       name: Player_JumpNormalMap_50
       rect:
         serializedVersion: 2
-        x: 650
-        y: 390
-        width: 130
-        height: 130
+        x: 900
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1394,10 +1394,10 @@ TextureImporter:
       name: Player_JumpNormalMap_51
       rect:
         serializedVersion: 2
-        x: 780
-        y: 390
-        width: 130
-        height: 130
+        x: 1080
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1415,10 +1415,10 @@ TextureImporter:
       name: Player_JumpNormalMap_52
       rect:
         serializedVersion: 2
-        x: 910
-        y: 390
-        width: 130
-        height: 130
+        x: 1260
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1436,10 +1436,10 @@ TextureImporter:
       name: Player_JumpNormalMap_53
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 390
-        width: 130
-        height: 130
+        x: 1440
+        y: 540
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1458,9 +1458,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 260
-        width: 130
-        height: 130
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1478,10 +1478,10 @@ TextureImporter:
       name: Player_JumpNormalMap_55
       rect:
         serializedVersion: 2
-        x: 130
-        y: 260
-        width: 130
-        height: 130
+        x: 180
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1499,10 +1499,10 @@ TextureImporter:
       name: Player_JumpNormalMap_56
       rect:
         serializedVersion: 2
-        x: 260
-        y: 260
-        width: 130
-        height: 130
+        x: 360
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1520,10 +1520,10 @@ TextureImporter:
       name: Player_JumpNormalMap_57
       rect:
         serializedVersion: 2
-        x: 390
-        y: 260
-        width: 130
-        height: 130
+        x: 540
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1541,10 +1541,10 @@ TextureImporter:
       name: Player_JumpNormalMap_58
       rect:
         serializedVersion: 2
-        x: 520
-        y: 260
-        width: 130
-        height: 130
+        x: 720
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: Player_JumpNormalMap_59
       rect:
         serializedVersion: 2
-        x: 650
-        y: 260
-        width: 130
-        height: 130
+        x: 900
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1583,10 +1583,10 @@ TextureImporter:
       name: Player_JumpNormalMap_60
       rect:
         serializedVersion: 2
-        x: 780
-        y: 260
-        width: 130
-        height: 130
+        x: 1080
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1604,10 +1604,10 @@ TextureImporter:
       name: Player_JumpNormalMap_61
       rect:
         serializedVersion: 2
-        x: 910
-        y: 260
-        width: 130
-        height: 130
+        x: 1260
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1625,10 +1625,10 @@ TextureImporter:
       name: Player_JumpNormalMap_62
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 260
-        width: 130
-        height: 130
+        x: 1440
+        y: 360
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1647,9 +1647,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 130
-        width: 130
-        height: 130
+        y: 180
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1667,10 +1667,10 @@ TextureImporter:
       name: Player_JumpNormalMap_64
       rect:
         serializedVersion: 2
-        x: 130
-        y: 130
-        width: 130
-        height: 130
+        x: 180
+        y: 180
+        width: 180
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
