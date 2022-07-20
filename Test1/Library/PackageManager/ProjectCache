@@ -5,27 +5,27 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637937579140000000
-    m_Hash: 165956222
+      ticks: 637939214730000000
+    m_Hash: 1894337369
   m_LockFileStatus:
     m_FilePath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637937579320000000
-    m_Hash: 3953732981
+      ticks: 637939214830000000
+    m_Hash: 404857559
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.2d.animation@4.2.8
+    - packageId: com.unity.2d.animation@5.2.0
       testable: 0
       isDirectDependency: 1
-      version: 4.2.8
+      version: 5.2.0
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.2d.animation@4.2.8
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.2d.animation@5.2.0
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -111,6 +111,7 @@ m_PackageAssets:
         - 5.1.1
         - 5.2.0
         - 5.2.1
+        - 5.2.2
         - 5.2.3
         - 6.0.0-pre.1
         - 6.0.0-pre.2
@@ -136,12 +137,14 @@ m_PackageAssets:
         - 9.0.0-pre.1
         - 9.0.0-pre.3
         compatible:
-        - 4.2.6
-        - 4.2.8
-        verified: 4.2.8
+        - 5.2.0
+        - 5.2.1
+        - 5.2.2
+        - 5.2.3
+        verified: 5.2.3
       dependencies:
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.2.0
       - name: com.unity.mathematics
         version: 1.1.0
       - name: com.unity.2d.sprite
@@ -152,7 +155,7 @@ m_PackageAssets:
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.2d.common
-        version: 3.0.1
+        version: 4.2.0
       - name: com.unity.2d.sprite
         version: 1.0.0
       - name: com.unity.modules.uielements
@@ -184,13 +187,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637459754620000000
+      datePublishedTicks: 637836454510000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: dd8b11f003d767d40cea1bf8767e294c05869f4e
+        revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
     - packageId: com.unity.collab-proxy@1.15.18
       testable: 0
@@ -264,6 +267,7 @@ m_PackageAssets:
         - 1.15.18
         - 1.17.0
         - 1.17.1
+        - 1.17.2
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -275,23 +279,10 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
-        - 1.3.9
-        - 1.4.9
-        - 1.5.7
-        - 1.6.0
-        - 1.8.0
-        - 1.10.2
-        - 1.12.5
-        - 1.14.1
-        - 1.14.4
-        - 1.14.7
-        - 1.14.9
-        - 1.14.12
-        - 1.14.13
-        - 1.14.15
-        - 1.14.16
-        - 1.14.17
-        - 1.14.18
+        - 1.15.18
+        - 1.17.0
+        - 1.17.1
+        - 1.17.2
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -302,7 +293,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.3.9
+        verified: 1.15.18
       dependencies:
       - name: com.unity.services.core
         version: 1.0.1
@@ -430,13 +421,13 @@ m_PackageAssets:
         - 3.0.13
         - 3.0.14
         - 3.0.15
-        verified: 1.2.1
+        verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.29
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -531,7 +522,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.29
+        version: 1.1.31
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -632,12 +623,12 @@ m_PackageAssets:
         url: https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: b0740c80bfc2440527c317109f7c3d9100132722
         path: 
-    - packageId: com.unity.purchasing.udp@1.2.0
+    - packageId: com.unity.purchasing.udp@2.0.0
       testable: 0
       isDirectDependency: 1
-      version: 1.2.0
+      version: 2.0.0
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@2.0.0
       assetPath: Packages/com.unity.purchasing.udp
       name: com.unity.purchasing.udp
       displayName: Unity Distribution Portal
@@ -647,10 +638,17 @@ m_PackageAssets:
         url: 
       category: 
       type: 
-      description: Unity Distribution Portal (UDP) streamlines your distribution
-        process. UDP allows you to only build one version of your game, centralize
-        the management of your marketing assets and metadata, and submit your content
-        to multiple app stores, all in the same workflow.
+      description: 'Unity Distribution Portal (UDP) gives you direct and ready access
+        to third-party Android app stores.
+
+
+        This package allows you to implement
+        only one In-App Payment SDK for all the app stores accessible via UDP.
+
+
+        The
+        UDP console will let you centralize your marketing assets and game metadata,
+        and submit your game to multiple app stores from a single hub.'
       status: 4
       errors: []
       versions:
@@ -724,7 +722,7 @@ m_PackageAssets:
         - 2.2.3
         - 2.2.4
         - 2.2.5
-        verified: 1.2.0
+        verified: 2.0.0
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -743,20 +741,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637104675300000000
+      datePublishedTicks: 637272081180000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git@github.cds.internal.unity3d.com:unity/com.unity.purchasing.udp.git
-        revision: bd2fa3dcede47b9f92074644428f72ca3cbff18d
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.udp.git
+        revision: 798aa412c850c5cee9fe518d6e36e97e1ed6611d
         path: 
-    - packageId: com.unity.render-pipelines.universal@8.2.0
+    - packageId: com.unity.render-pipelines.universal@10.9.0
       testable: 0
       isDirectDependency: 1
-      version: 8.2.0
+      version: 10.9.0
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.render-pipelines.universal@8.2.0
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.render-pipelines.universal@10.9.0
       assetPath: Packages/com.unity.render-pipelines.universal
       name: com.unity.render-pipelines.universal
       displayName: Universal RP
@@ -819,31 +817,35 @@ m_PackageAssets:
         - 10.9.0
         - 10.10.0
         compatible:
-        - 8.2.0
-        - 8.3.1
-        - 9.0.0-preview.14
-        - 9.0.0-preview.35
-        - 9.0.0-preview.55
-        - 9.0.0-preview.72
-        verified: 8.2.0
+        - 10.9.0
+        - 10.10.0
+        verified: 10.9.0
       dependencies:
+      - name: com.unity.mathematics
+        version: 1.1.0
       - name: com.unity.render-pipelines.core
-        version: 8.2.0
+        version: 10.9.0
       - name: com.unity.shadergraph
-        version: 8.2.0
+        version: 10.9.0
       resolvedDependencies:
+      - name: com.unity.mathematics
+        version: 1.2.1
       - name: com.unity.render-pipelines.core
-        version: 8.2.0
+        version: 10.9.0
       - name: com.unity.ugui
         version: 1.0.0
       - name: com.unity.modules.ui
         version: 1.0.0
       - name: com.unity.modules.imgui
         version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
       - name: com.unity.shadergraph
-        version: 8.2.0
+        version: 10.9.0
       - name: com.unity.searcher
-        version: 4.0.9
+        version: 4.3.2
       keywords:
       - graphics
       - performance
@@ -863,20 +865,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637302625500000000
+      datePublishedTicks: 637853737940000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Graphics.git
-        revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
+        url: https://github.com/Unity-Technologies/Graphics.git
+        revision: 5a193e907cafca7b2fa290618e18c3f28a3b451b
         path: 
-    - packageId: com.unity.test-framework@1.1.29
+    - packageId: com.unity.test-framework@1.1.31
       testable: 0
       isDirectDependency: 1
-      version: 1.1.29
+      version: 1.1.31
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.test-framework@1.1.29
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.test-framework@1.1.31
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -928,15 +930,6 @@ m_PackageAssets:
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
-        - 1.1.18
-        - 1.1.19
-        - 1.1.20
-        - 1.1.22
-        - 1.1.24
-        - 1.1.26
-        - 1.1.27
-        - 1.1.29
-        - 1.1.30
         - 1.1.31
         - 2.0.1-exp.1
         - 2.0.1-pre.12
@@ -971,13 +964,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637647922650000000
+      datePublishedTicks: 637804266210000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: dac53542acdab7a12e9ebf111ac588d0e53cf483
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+        revision: 438b0defc147c9be5c969ca79ff03a722b4590ed
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
@@ -1104,11 +1097,10 @@ m_PackageAssets:
         - 3.2.0-pre.3
         - 4.0.0-pre.1
         compatible:
-        - 3.0.1
-        - 3.0.3
-        - 3.0.4
-        - 3.0.5
         - 3.0.6
+        - 3.2.0-pre.1
+        - 3.2.0-pre.2
+        - 3.2.0-pre.3
         verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
@@ -1240,45 +1232,6 @@ m_PackageAssets:
         - 1.7.0
         - 1.7.1
         compatible:
-        - 1.2.6
-        - 1.2.7
-        - 1.2.9
-        - 1.2.10
-        - 1.2.11
-        - 1.2.12
-        - 1.2.13
-        - 1.2.14
-        - 1.2.15
-        - 1.2.16
-        - 1.2.17
-        - 1.2.18
-        - 1.3.0-preview.2
-        - 1.3.0-preview.3
-        - 1.3.0-preview.5
-        - 1.3.0-preview.6
-        - 1.3.0-preview.7
-        - 1.3.0
-        - 1.3.1
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.4.0-preview.1
-        - 1.4.0-preview.2
-        - 1.4.0-preview.3
-        - 1.4.0-preview.5
-        - 1.4.0-preview.6
-        - 1.4.0-preview.7
-        - 1.4.0
-        - 1.4.1
-        - 1.4.2
-        - 1.4.3
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.4.7
         - 1.4.8
         - 1.5.0-pre.2
         - 1.5.0-preview.1
@@ -1306,7 +1259,7 @@ m_PackageAssets:
         - 1.7.0-pre.2
         - 1.7.0
         - 1.7.1
-        verified: 1.3.7
+        verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
         version: 1.0.0
@@ -1356,7 +1309,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1395,13 +1348,13 @@ m_PackageAssets:
       - Unity UI
       - Canvas
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1439,6 +1392,8 @@ m_PackageAssets:
         - 1.0.3
         compatible:
         - 1.0.1
+        - 1.0.2
+        - 1.0.3
         verified: 
       dependencies:
       - name: com.unity.mathematics
@@ -1555,6 +1510,10 @@ m_PackageAssets:
         compatible:
         - 1.0.0
         - 1.0.1
+        - 2.0.0
+        - 2.0.1
+        - 2.0.2
+        - 2.0.3
         verified: 
       dependencies:
       - name: com.unity.modules.screencapture
@@ -1692,7 +1651,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1716,13 +1675,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1740,7 +1699,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1764,13 +1723,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1788,7 +1747,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1812,13 +1771,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1836,7 +1795,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1860,13 +1819,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1884,7 +1843,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1908,13 +1867,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1932,7 +1891,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1960,13 +1919,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -1984,7 +1943,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -2016,13 +1975,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2040,7 +1999,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -2065,13 +2024,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2089,7 +2048,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -2113,13 +2072,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2137,7 +2096,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -2161,13 +2120,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2185,7 +2144,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2209,13 +2168,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2233,7 +2192,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2257,13 +2216,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2281,7 +2240,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2305,13 +2264,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2329,7 +2288,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2357,13 +2316,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2381,7 +2340,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2405,13 +2364,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2429,7 +2388,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2461,13 +2420,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2485,7 +2444,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2513,13 +2472,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2537,7 +2496,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2561,13 +2520,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2585,7 +2544,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2625,13 +2584,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2649,7 +2608,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2673,13 +2632,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2697,7 +2656,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2729,13 +2688,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2753,7 +2712,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2777,13 +2736,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2801,7 +2760,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2833,13 +2792,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2857,7 +2816,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2889,13 +2848,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2913,7 +2872,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2945,13 +2904,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -2969,7 +2928,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -3017,13 +2976,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3041,7 +3000,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -3069,13 +3028,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3093,7 +3052,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -3129,13 +3088,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3153,7 +3112,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3191,13 +3150,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3215,7 +3174,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3239,13 +3198,13 @@ m_PackageAssets:
       resolvedDependencies: []
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3263,7 +3222,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3299,13 +3258,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3323,7 +3282,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3351,13 +3310,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3375,7 +3334,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3410,13 +3369,13 @@ m_PackageAssets:
         version: 1.0.0
       keywords: []
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -3575,12 +3534,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git
         revision: 29ea4d6504a5f58fb3a6934db839aa80ae6d9d88
         path: 
-    - packageId: com.unity.render-pipelines.core@8.2.0
+    - packageId: com.unity.render-pipelines.core@10.9.0
       testable: 0
       isDirectDependency: 0
-      version: 8.2.0
+      version: 10.9.0
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.render-pipelines.core@8.2.0
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.render-pipelines.core@10.9.0
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -3699,16 +3658,15 @@ m_PackageAssets:
         - 10.9.0
         - 10.10.0
         compatible:
-        - 8.2.0
-        - 8.3.1
-        - 9.0.0-preview.13
-        - 9.0.0-preview.35
-        - 9.0.0-preview.38
-        - 9.0.0-preview.60
-        - 9.0.0-preview.77
-        verified: 8.2.0
+        - 10.9.0
+        - 10.10.0
+        verified: 10.9.0
       dependencies:
       - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
         version: 1.0.0
       resolvedDependencies:
       - name: com.unity.ugui
@@ -3716,6 +3674,10 @@ m_PackageAssets:
       - name: com.unity.modules.ui
         version: 1.0.0
       - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
         version: 1.0.0
       keywords: []
       registry:
@@ -3730,20 +3692,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637302622600000000
+      datePublishedTicks: 637853736930000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Graphics.git
-        revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
+        url: https://github.com/Unity-Technologies/Graphics.git
+        revision: 5a193e907cafca7b2fa290618e18c3f28a3b451b
         path: 
-    - packageId: com.unity.shadergraph@8.2.0
+    - packageId: com.unity.shadergraph@10.9.0
       testable: 0
       isDirectDependency: 0
-      version: 8.2.0
+      version: 10.9.0
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.shadergraph@8.2.0
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.shadergraph@10.9.0
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -3859,29 +3821,29 @@ m_PackageAssets:
         - 10.9.0
         - 10.10.0
         compatible:
-        - 8.2.0
-        - 8.3.1
-        - 9.0.0-preview.14
-        - 9.0.0-preview.34
-        - 9.0.0-preview.55
-        - 9.0.0-preview.72
-        verified: 8.2.0
+        - 10.9.0
+        - 10.10.0
+        verified: 10.9.0
       dependencies:
       - name: com.unity.render-pipelines.core
-        version: 8.2.0
+        version: 10.9.0
       - name: com.unity.searcher
-        version: 4.0.9
+        version: 4.3.2
       resolvedDependencies:
       - name: com.unity.render-pipelines.core
-        version: 8.2.0
+        version: 10.9.0
       - name: com.unity.ugui
         version: 1.0.0
       - name: com.unity.modules.ui
         version: 1.0.0
       - name: com.unity.modules.imgui
         version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
       - name: com.unity.searcher
-        version: 4.0.9
+        version: 4.3.2
       keywords: []
       registry:
         id: main
@@ -3895,13 +3857,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637302623400000000
+      datePublishedTicks: 637853737050000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Graphics.git
-        revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
+        url: https://github.com/Unity-Technologies/Graphics.git
+        revision: 5a193e907cafca7b2fa290618e18c3f28a3b451b
         path: 
     - packageId: com.unity.services.core@1.0.1
       testable: 0
@@ -3956,7 +3918,7 @@ m_PackageAssets:
         - 1.4.0
         - 1.4.1
         - 1.4.2
-        verified: 
+        verified: 1.4.2
       dependencies:
       - name: com.unity.modules.unitywebrequest
         version: 1.0.0
@@ -3984,12 +3946,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
         revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
         path: 
-    - packageId: com.unity.2d.common@3.0.1
+    - packageId: com.unity.2d.common@4.2.0
       testable: 0
       isDirectDependency: 0
-      version: 3.0.1
+      version: 4.2.0
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.2d.common@3.0.1
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.2d.common@4.2.0
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -4042,8 +4004,8 @@ m_PackageAssets:
         - 8.0.0-pre.1
         - 8.0.0-pre.2
         compatible:
-        - 3.0.1
-        verified: 3.0.1
+        - 4.2.0
+        verified: 4.2.0
       dependencies:
       - name: com.unity.2d.sprite
         version: 1.0.0
@@ -4076,20 +4038,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637256005260000000
+      datePublishedTicks: 637836454410000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/2d.git
-        revision: c73fb89a5b37a8e0f18f9e66307b3c2ed74c79e8
+        revision: de062e9b52e01d9b7c1e2b7e86c8897a78342167
         path: 
     - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: /Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.2d.sprite@1.0.0
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -4116,13 +4078,13 @@ m_PackageAssets:
       - sprite
       - sprite editor window
       registry:
-        id: 
+        id: main
         name: 
-        url: 
+        url: https://packages.unity.com
         scopes: []
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 0
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
       hideInEditor: 1
       entitlements:
         isAllowed: 1
@@ -4135,12 +4097,12 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
-    - packageId: com.unity.searcher@4.0.9
+    - packageId: com.unity.searcher@4.3.2
       testable: 0
       isDirectDependency: 0
-      version: 4.0.9
+      version: 4.3.2
       source: 1
-      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.searcher@4.0.9
+      resolvedPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.searcher@4.3.2
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -4189,7 +4151,7 @@ m_PackageAssets:
         - 4.7.0-preview
         - 4.9.1
         - 4.9.2
-        verified: 4.0.9
+        verified: 4.3.2
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -4207,15 +4169,15 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637090887100000000
+      datePublishedTicks: 637509898070000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git@github.cds.internal.unity3d.com:unity/com.unity.searcher.git
-        revision: ec1fb56f8d8f95b1503ea22a73b83e2cfb02f083
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
+        revision: 798bfb84c8f09f7788a3a88c3c16d72c50451530
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: /Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Packages
-m_EditorVersion: 2020.1.15f1 (97d0ae02d19d)
+m_EditorVersion: 2020.3.36f1 (71f96b79b9f0)
