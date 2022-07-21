@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 17d52c328e6306b48bd2354a9ad6aa17
+timeCreated: 1524130024
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bilboard_10.001_LOD0
+    100004: Bilboard_10.001_LOD1
+    100006: Bilboard_10.001_LOD2
+    400000: //RootNode
+    400002: Bilboard_10.001_LOD0
+    400004: Bilboard_10.001_LOD1
+    400006: Bilboard_10.001_LOD2
+    2100000: Bilboard_10
+    2300000: //RootNode
+    2300002: Bilboard_10.001_LOD0
+    2300004: Bilboard_10.001_LOD1
+    2300006: Bilboard_10.001_LOD2
+    3300000: //RootNode
+    3300002: Bilboard_10.001_LOD0
+    3300004: Bilboard_10.001_LOD1
+    3300006: Bilboard_10.001_LOD2
+    4300000: Bilboard_10.001
+    4300002: Bilboard_10.001_LOD2
+    4300004: Bilboard_10.001_LOD1
+    4300006: Bilboard_10.001_LOD0
+    7400000: Bilboard_10.001|broken|Take 001|Layer 001
+    7400002: Bilboard_10.001|cap1|Take 001|Layer 001
+    7400004: Bilboard_10.001|cap2 (2)|Take 001|Layer 001
+    7400006: Bilboard_10.001|cap3|Take 001|Layer 001
+    7400008: Bilboard_10.001|ext_glass.001|Take 001|Layer 001
+    7400010: Bilboard_10.001|ext_glass|Take 001|Layer 001
+    7400012: Bilboard_10.001|ext_glass|Take 001|Layer 001.001
+    7400014: Bilboard_10.001|ext_glass|Take 001|Layer 001.002
+    7400016: Bilboard_10.001|ext_glass|Take 001|Layer 001.003
+    7400018: Bilboard_10.001|ext_glass|Take 001|Layer 001.004
+    7400020: Bilboard_10.001|ext_glass|Take 001|Layer 001.005
+    7400022: Bilboard_10.001|ext_glass|Take 001|Layer 001.007
+    7400024: Bilboard_10.001|ext|Take 001|Layer 001
+    7400026: Bilboard_10.001|ext|Take 001|Layer 001.001
+    7400028: Bilboard_10.001|ext|Take 001|Layer 001.002
+    7400030: Bilboard_10.001|ext|Take 001|Layer 001.003
+    7400032: Bilboard_10.001|ext|Take 001|Layer 001.004
+    7400034: Bilboard_10.001|ext|Take 001|Layer 001.005
+    7400036: Bilboard_10.001|ext|Take 001|Layer 001.006
+    7400038: Bilboard_10.001|ext|Take 001|Layer 001.007
+    7400040: Bilboard_10.001|ext|Take 001|Layer 001.008
+    7400042: Bilboard_10.001|ext|Take 001|Layer 001.009
+    7400044: Bilboard_10.001|int|Take 001|Layer 001
+    7400046: Bilboard_10.001|int|Take 001|Layer 001.001
+    7400048: Bilboard_10.001|int|Take 001|Layer 001.002
+    7400050: Bilboard_10.001|int|Take 001|Layer 001.003
+    7400052: Bilboard_10.001|int|Take 001|Layer 001.004
+    7400054: Bilboard_10.001|int|Take 001|Layer 001.005
+    7400056: Bilboard_10.001|int|Take 001|Layer 001.006
+    7400058: Bilboard_10.001|int|Take 001|Layer 001.007
+    7400060: Bilboard_10.001|int|Take 001|Layer 001.008
+    7400062: Bilboard_10.001|k1_K|Take 001|Layer 001
+    7400064: Bilboard_10.001|k1_K|Take 001|Layer 001.001
+    7400066: Bilboard_10.001|k1_K|Take 001|Layer 001.002
+    7400068: Bilboard_10.001|k1_K|Take 001|Layer 001.003
+    7400070: Bilboard_10.001|k1_K|Take 001|Layer 001.004
+    7400072: Bilboard_10.001|k1_K|Take 001|Layer 001.005
+    7400074: Bilboard_10.001|k1_K|Take 001|Layer 001.006
+    7400076: Bilboard_10.001|k1_K|Take 001|Layer 001.007
+    7400078: Bilboard_10.001|k1_o|Take 001|Layer 001
+    7400080: Bilboard_10.001|k1_o|Take 001|Layer 001.001
+    7400082: Bilboard_10.001|k1_o|Take 001|Layer 001.002
+    7400084: Bilboard_10.001|k1_o|Take 001|Layer 001.003
+    7400086: Bilboard_10.001|k1_o|Take 001|Layer 001.004
+    7400088: Bilboard_10.001|k1_o|Take 001|Layer 001.005
+    7400090: Bilboard_10.001|k1_o|Take 001|Layer 001.006
+    7400092: Bilboard_10.001|k1_o|Take 001|Layer 001.007
+    7400094: Bilboard_10.001|k1|Take 001|Layer 001
+    7400096: Bilboard_10.001|k1|Take 001|Layer 001.001
+    7400098: Bilboard_10.001|k1|Take 001|Layer 001.002
+    7400100: Bilboard_10.001|k1|Take 001|Layer 001.003
+    7400102: Bilboard_10.001|k1|Take 001|Layer 001.004
+    7400104: Bilboard_10.001|k1|Take 001|Layer 001.005
+    7400106: Bilboard_10.001|k1|Take 001|Layer 001.006
+    7400108: Bilboard_10.001|k1|Take 001|Layer 001.007
+    7400110: Bilboard_10.001|k2_K|Take 001|Layer 001
+    7400112: Bilboard_10.001|k2_K|Take 001|Layer 001.001
+    7400114: Bilboard_10.001|k2_K|Take 001|Layer 001.002
+    7400116: Bilboard_10.001|k2_K|Take 001|Layer 001.003
+    7400118: Bilboard_10.001|k2_K|Take 001|Layer 001.004
+    7400120: Bilboard_10.001|k2_K|Take 001|Layer 001.005
+    7400122: Bilboard_10.001|k2_K|Take 001|Layer 001.006
+    7400124: Bilboard_10.001|k2_K|Take 001|Layer 001.007
+    7400126: Bilboard_10.001|k2_o|Take 001|Layer 001
+    7400128: Bilboard_10.001|k2_o|Take 001|Layer 001.001
+    7400130: Bilboard_10.001|k2_o|Take 001|Layer 001.002
+    7400132: Bilboard_10.001|k2_o|Take 001|Layer 001.003
+    7400134: Bilboard_10.001|k2_o|Take 001|Layer 001.004
+    7400136: Bilboard_10.001|k2_o|Take 001|Layer 001.005
+    7400138: Bilboard_10.001|k2_o|Take 001|Layer 001.006
+    7400140: Bilboard_10.001|k2_o|Take 001|Layer 001.007
+    7400142: Bilboard_10.001|k2|Take 001|Layer 001
+    7400144: Bilboard_10.001|k2|Take 001|Layer 001.001
+    7400146: Bilboard_10.001|k2|Take 001|Layer 001.002
+    7400148: Bilboard_10.001|k2|Take 001|Layer 001.003
+    7400150: Bilboard_10.001|k2|Take 001|Layer 001.004
+    7400152: Bilboard_10.001|k2|Take 001|Layer 001.005
+    7400154: Bilboard_10.001|k2|Take 001|Layer 001.006
+    7400156: Bilboard_10.001|k2|Take 001|Layer 001.007
+    7400158: Bilboard_10.001|k3_K|Take 001|Layer 001
+    7400160: Bilboard_10.001|k3_K|Take 001|Layer 001.001
+    7400162: Bilboard_10.001|k3_K|Take 001|Layer 001.002
+    7400164: Bilboard_10.001|k3_K|Take 001|Layer 001.003
+    7400166: Bilboard_10.001|k3_K|Take 001|Layer 001.004
+    7400168: Bilboard_10.001|k3_K|Take 001|Layer 001.005
+    7400170: Bilboard_10.001|k3_K|Take 001|Layer 001.006
+    7400172: Bilboard_10.001|k3_K|Take 001|Layer 001.007
+    7400174: Bilboard_10.001|k3_o|Take 001|Layer 001
+    7400176: Bilboard_10.001|k3_o|Take 001|Layer 001.001
+    7400178: Bilboard_10.001|k3_o|Take 001|Layer 001.002
+    7400180: Bilboard_10.001|k3_o|Take 001|Layer 001.003
+    7400182: Bilboard_10.001|k3_o|Take 001|Layer 001.004
+    7400184: Bilboard_10.001|k3_o|Take 001|Layer 001.005
+    7400186: Bilboard_10.001|k3_o|Take 001|Layer 001.006
+    7400188: Bilboard_10.001|k3_o|Take 001|Layer 001.007
+    7400190: Bilboard_10.001|k3|Take 001|Layer 001
+    7400192: Bilboard_10.001|k3|Take 001|Layer 001.001
+    7400194: Bilboard_10.001|k3|Take 001|Layer 001.002
+    7400196: Bilboard_10.001|k3|Take 001|Layer 001.003
+    7400198: Bilboard_10.001|k3|Take 001|Layer 001.004
+    7400200: Bilboard_10.001|k3|Take 001|Layer 001.005
+    7400202: Bilboard_10.001|k3|Take 001|Layer 001.006
+    7400204: Bilboard_10.001|k3|Take 001|Layer 001.007
+    7400206: Bilboard_10.001|k4_K|Take 001|Layer 001
+    7400208: Bilboard_10.001|k4_K|Take 001|Layer 001.001
+    7400210: Bilboard_10.001|k4_K|Take 001|Layer 001.002
+    7400212: Bilboard_10.001|k4_K|Take 001|Layer 001.003
+    7400214: Bilboard_10.001|k4_K|Take 001|Layer 001.004
+    7400216: Bilboard_10.001|k4_K|Take 001|Layer 001.005
+    7400218: Bilboard_10.001|k4_K|Take 001|Layer 001.006
+    7400220: Bilboard_10.001|k4_K|Take 001|Layer 001.007
+    7400222: Bilboard_10.001|k4_o|Take 001|Layer 001
+    7400224: Bilboard_10.001|k4_o|Take 001|Layer 001.001
+    7400226: Bilboard_10.001|k4_o|Take 001|Layer 001.002
+    7400228: Bilboard_10.001|k4_o|Take 001|Layer 001.003
+    7400230: Bilboard_10.001|k4_o|Take 001|Layer 001.004
+    7400232: Bilboard_10.001|k4_o|Take 001|Layer 001.005
+    7400234: Bilboard_10.001|k4_o|Take 001|Layer 001.006
+    7400236: Bilboard_10.001|k4_o|Take 001|Layer 001.007
+    7400238: Bilboard_10.001|k4|Take 001|Layer 001
+    7400240: Bilboard_10.001|k4|Take 001|Layer 001.001
+    7400242: Bilboard_10.001|k4|Take 001|Layer 001.002
+    7400244: Bilboard_10.001|k4|Take 001|Layer 001.003
+    7400246: Bilboard_10.001|k4|Take 001|Layer 001.004
+    7400248: Bilboard_10.001|k4|Take 001|Layer 001.005
+    7400250: Bilboard_10.001|k4|Take 001|Layer 001.006
+    7400252: Bilboard_10.001|k4|Take 001|Layer 001.007
+    7400254: Bilboard_10.001|t_o|Take 001|Layer 001
+    7400256: Bilboard_10.001|t_o|Take 001|Layer 001.001
+    7400258: Bilboard_10.001|t_o|Take 001|Layer 001.002
+    7400260: Bilboard_10.001|t_o|Take 001|Layer 001.003
+    7400262: Bilboard_10.001|t_o|Take 001|Layer 001.004
+    7400264: Bilboard_10.001|t_o|Take 001|Layer 001.005
+    7400266: Bilboard_10.001|t_o|Take 001|Layer 001.006
+    7400268: Bilboard_10.001|t_o|Take 001|Layer 001.007
+    7400270: Bilboard_10.001|Texture Group|Take 001|Layer 001
+    7400272: Bilboard_10.001|Texture Group|Take 001|Layer 001.001
+    7400274: Bilboard_10.001|Texture Group|Take 001|Layer 001.002
+    7400276: Bilboard_10.001|Texture Group|Take 001|Layer 001.003
+    7400278: Bilboard_10.001|Texture Group|Take 001|Layer 001.004
+    7400280: Bilboard_10.001|Texture Group|Take 001|Layer 001.005
+    7400282: Bilboard_10.001|Texture Group|Take 001|Layer 001.006
+    7400284: Bilboard_10.001|Texture Group|Take 001|Layer 001.007
+    7400286: Bilboard_10.001|Texture Group|Take 001|Layer 001.008
+    7400288: Bilboard_10.001|Texture Group|Take 001|Layer 001.009
+    7400290: Bilboard_10.001|tree_3_1|Take 001|Layer 001
+    7400292: Bilboard_10.001|tree_3|Take 001|Layer 001
+    7400294: Bilboard_10.001|tube.001|Take 001|Layer 001
+    7400296: Bilboard_10.001|tube.001|Take 001|Layer 001.001
+    7400298: Bilboard_10.001|tube.001|Take 001|Layer 001.002
+    7400300: Bilboard_10.001|tube.001|Take 001|Layer 001.003
+    7400302: Bilboard_10.001|tube.001|Take 001|Layer 001.004
+    7400304: Bilboard_10.001|tube.002|Take 001|Layer 001
+    7400306: Bilboard_10.001|tube2.001|Take 001|Layer 001
+    7400308: Bilboard_10.001|tube2.001|Take 001|Layer 001.001
+    7400310: Bilboard_10.001|tube2.001|Take 001|Layer 001.002
+    7400312: Bilboard_10.001|tube2.001|Take 001|Layer 001.003
+    7400314: Bilboard_10.001|tube2.001|Take 001|Layer 001.004
+    7400316: Bilboard_10.001|tube2.002|Take 001|Layer 001
+    7400318: Bilboard_10.001|tube2|Take 001|Layer 001
+    7400320: Bilboard_10.001|tube2|Take 001|Layer 001.001
+    7400322: Bilboard_10.001|tube3.001|Take 001|Layer 001
+    7400324: Bilboard_10.001|tube3.001|Take 001|Layer 001.001
+    7400326: Bilboard_10.001|tube3.001|Take 001|Layer 001.002
+    7400328: Bilboard_10.001|tube3.001|Take 001|Layer 001.003
+    7400330: Bilboard_10.001|tube3.001|Take 001|Layer 001.004
+    7400332: Bilboard_10.001|tube3.002|Take 001|Layer 001
+    7400334: Bilboard_10.001|tube3|Take 001|Layer 001
+    7400336: Bilboard_10.001|tube3|Take 001|Layer 001.001
+    7400338: Bilboard_10.001|tube4.001|Take 001|Layer 001
+    7400340: Bilboard_10.001|tube4.001|Take 001|Layer 001.001
+    7400342: Bilboard_10.001|tube4.001|Take 001|Layer 001.002
+    7400344: Bilboard_10.001|tube4.001|Take 001|Layer 001.003
+    7400346: Bilboard_10.001|tube4.001|Take 001|Layer 001.004
+    7400348: Bilboard_10.001|tube4.002|Take 001|Layer 001
+    7400350: Bilboard_10.001|tube4|Take 001|Layer 001
+    7400352: Bilboard_10.001|tube4|Take 001|Layer 001.001
+    7400354: Bilboard_10.001|tube|Take 001|Layer 001
+    7400356: Bilboard_10.001|tube|Take 001|Layer 001.001
+    9500000: //RootNode
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bilboard_10
+    second: {fileID: 2100000, guid: faa1a4d9be0ee9840b7c691318f0dd4b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

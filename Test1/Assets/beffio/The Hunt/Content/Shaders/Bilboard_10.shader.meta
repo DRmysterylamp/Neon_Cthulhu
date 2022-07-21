@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7c72ff01c56f3d4cae953aaf689d354
+timeCreated: 1518529995
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Letters_Mask: {fileID: 2800000, guid: 4804b8ac8aa309c468f857e11c9bcb2a, type: 3}
+  - _TextureSample1: {fileID: 2800000, guid: 4804b8ac8aa309c468f857e11c9bcb2a, type: 3}
+  - _TextureSample0: {fileID: 2800000, guid: 4804b8ac8aa309c468f857e11c9bcb2a, type: 3}
+  - _TextureSample2: {fileID: 2800000, guid: 4804b8ac8aa309c468f857e11c9bcb2a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

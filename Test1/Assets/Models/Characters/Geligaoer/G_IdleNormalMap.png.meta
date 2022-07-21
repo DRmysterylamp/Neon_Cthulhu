@@ -1,0 +1,6144 @@
+fileFormatVersion: 2
+guid: 3c5d7c5a96e934b67b7953a67d81e241
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4284976356229863402
+    second: G_IdleNormalMap_0
+  - first:
+      213: -8521565541563628167
+    second: G_IdleNormalMap_1
+  - first:
+      213: 5788455349898977417
+    second: G_IdleNormalMap_2
+  - first:
+      213: 9090025620914614805
+    second: G_IdleNormalMap_3
+  - first:
+      213: 1258606389351572401
+    second: G_IdleNormalMap_4
+  - first:
+      213: -6617951054628744343
+    second: G_IdleNormalMap_5
+  - first:
+      213: -1646172876893079670
+    second: G_IdleNormalMap_6
+  - first:
+      213: 145030002052876674
+    second: G_IdleNormalMap_7
+  - first:
+      213: -6602668324169488815
+    second: G_IdleNormalMap_8
+  - first:
+      213: 6409407447684683939
+    second: G_IdleNormalMap_9
+  - first:
+      213: 2843894762297433522
+    second: G_IdleNormalMap_10
+  - first:
+      213: 5687078784904571932
+    second: G_IdleNormalMap_11
+  - first:
+      213: -7415561232829814016
+    second: G_IdleNormalMap_12
+  - first:
+      213: 4339631352693808379
+    second: G_IdleNormalMap_13
+  - first:
+      213: -4953616772507836933
+    second: G_IdleNormalMap_14
+  - first:
+      213: -2110372508803115031
+    second: G_IdleNormalMap_15
+  - first:
+      213: -198339282954798776
+    second: G_IdleNormalMap_16
+  - first:
+      213: 2904882505023468967
+    second: G_IdleNormalMap_17
+  - first:
+      213: 5378827236599245597
+    second: G_IdleNormalMap_18
+  - first:
+      213: -5747450725857883578
+    second: G_IdleNormalMap_19
+  - first:
+      213: -9120035671811887483
+    second: G_IdleNormalMap_20
+  - first:
+      213: -8580571731968685883
+    second: G_IdleNormalMap_21
+  - first:
+      213: 1101088316325052839
+    second: G_IdleNormalMap_22
+  - first:
+      213: 6423545803450426368
+    second: G_IdleNormalMap_23
+  - first:
+      213: -4613621815375219004
+    second: G_IdleNormalMap_24
+  - first:
+      213: -5170452834538851133
+    second: G_IdleNormalMap_25
+  - first:
+      213: 9011672633150727589
+    second: G_IdleNormalMap_26
+  - first:
+      213: -6835402706691488314
+    second: G_IdleNormalMap_27
+  - first:
+      213: -8112202702730973922
+    second: G_IdleNormalMap_28
+  - first:
+      213: -257438045832666592
+    second: G_IdleNormalMap_29
+  - first:
+      213: -5058860304395316793
+    second: G_IdleNormalMap_30
+  - first:
+      213: -4676047713149234932
+    second: G_IdleNormalMap_31
+  - first:
+      213: -839117297197591171
+    second: G_IdleNormalMap_32
+  - first:
+      213: -1503920967879493251
+    second: G_IdleNormalMap_33
+  - first:
+      213: -3578481904972115042
+    second: G_IdleNormalMap_34
+  - first:
+      213: 1998510119745784472
+    second: G_IdleNormalMap_35
+  - first:
+      213: -6027618853944320198
+    second: G_IdleNormalMap_36
+  - first:
+      213: 6706263575591333690
+    second: G_IdleNormalMap_37
+  - first:
+      213: 6493550140618231783
+    second: G_IdleNormalMap_38
+  - first:
+      213: 4378502583022814243
+    second: G_IdleNormalMap_39
+  - first:
+      213: -5746520347644893432
+    second: G_IdleNormalMap_40
+  - first:
+      213: 691379880804381890
+    second: G_IdleNormalMap_41
+  - first:
+      213: -5127314156762395549
+    second: G_IdleNormalMap_42
+  - first:
+      213: -478568878809686600
+    second: G_IdleNormalMap_43
+  - first:
+      213: 8351310368004213494
+    second: G_IdleNormalMap_44
+  - first:
+      213: -936528132602045723
+    second: G_IdleNormalMap_45
+  - first:
+      213: 2054710433015091167
+    second: G_IdleNormalMap_46
+  - first:
+      213: -3566335942972491812
+    second: G_IdleNormalMap_47
+  - first:
+      213: 5237998848251193086
+    second: G_IdleNormalMap_48
+  - first:
+      213: -6197873287997525364
+    second: G_IdleNormalMap_49
+  - first:
+      213: 7182413529868417923
+    second: G_IdleNormalMap_50
+  - first:
+      213: -4720717817741618316
+    second: G_IdleNormalMap_51
+  - first:
+      213: 4318776481984131996
+    second: G_IdleNormalMap_52
+  - first:
+      213: 6917909236463978627
+    second: G_IdleNormalMap_53
+  - first:
+      213: 384575543316796175
+    second: G_IdleNormalMap_54
+  - first:
+      213: 4210459834040338061
+    second: G_IdleNormalMap_55
+  - first:
+      213: 6052083245125527974
+    second: G_IdleNormalMap_56
+  - first:
+      213: 8145803687535501604
+    second: G_IdleNormalMap_57
+  - first:
+      213: -7893489079871174693
+    second: G_IdleNormalMap_58
+  - first:
+      213: 8099863431913187079
+    second: G_IdleNormalMap_59
+  - first:
+      213: 429434666169296843
+    second: G_IdleNormalMap_60
+  - first:
+      213: 4099821123601780694
+    second: G_IdleNormalMap_61
+  - first:
+      213: 8116518230035131574
+    second: G_IdleNormalMap_62
+  - first:
+      213: 7961682131533407711
+    second: G_IdleNormalMap_63
+  - first:
+      213: 2729043054838200343
+    second: G_IdleNormalMap_64
+  - first:
+      213: 6597978184554186941
+    second: G_IdleNormalMap_65
+  - first:
+      213: 129156028853265321
+    second: G_IdleNormalMap_66
+  - first:
+      213: 5326069158910912212
+    second: G_IdleNormalMap_67
+  - first:
+      213: -4062504836805999130
+    second: G_IdleNormalMap_68
+  - first:
+      213: -6242550920610298224
+    second: G_IdleNormalMap_69
+  - first:
+      213: -1610276006008975488
+    second: G_IdleNormalMap_70
+  - first:
+      213: -7756682028499179505
+    second: G_IdleNormalMap_71
+  - first:
+      213: 3123287409082749273
+    second: G_IdleNormalMap_72
+  - first:
+      213: -7402517109893005038
+    second: G_IdleNormalMap_73
+  - first:
+      213: -7452427679564565793
+    second: G_IdleNormalMap_74
+  - first:
+      213: -647309466673710643
+    second: G_IdleNormalMap_75
+  - first:
+      213: -8534833404705477280
+    second: G_IdleNormalMap_76
+  - first:
+      213: 5484015180146753305
+    second: G_IdleNormalMap_77
+  - first:
+      213: 7461157861371164950
+    second: G_IdleNormalMap_78
+  - first:
+      213: -4530558611774007859
+    second: G_IdleNormalMap_79
+  - first:
+      213: 8211654365471864599
+    second: G_IdleNormalMap_80
+  - first:
+      213: 6837417094573387776
+    second: G_IdleNormalMap_81
+  - first:
+      213: 4471361727946348235
+    second: G_IdleNormalMap_82
+  - first:
+      213: -8597462898125352039
+    second: G_IdleNormalMap_83
+  - first:
+      213: 5334985747689180948
+    second: G_IdleNormalMap_84
+  - first:
+      213: -8115250044202119379
+    second: G_IdleNormalMap_85
+  - first:
+      213: -1755182438626994503
+    second: G_IdleNormalMap_86
+  - first:
+      213: 3773946174373090626
+    second: G_IdleNormalMap_87
+  - first:
+      213: 7329745927206355036
+    second: G_IdleNormalMap_88
+  - first:
+      213: 6181786054458390396
+    second: G_IdleNormalMap_89
+  - first:
+      213: -9193639664462824989
+    second: G_IdleNormalMap_90
+  - first:
+      213: -8700147769411951644
+    second: G_IdleNormalMap_91
+  - first:
+      213: 4250682385849890198
+    second: G_IdleNormalMap_92
+  - first:
+      213: -6616971353139699364
+    second: G_IdleNormalMap_93
+  - first:
+      213: 2352700585258493927
+    second: G_IdleNormalMap_94
+  - first:
+      213: -925902524110670409
+    second: G_IdleNormalMap_95
+  - first:
+      213: -7129152066872037103
+    second: G_IdleNormalMap_96
+  - first:
+      213: 2231434616372099401
+    second: G_IdleNormalMap_97
+  - first:
+      213: 1873038065345481187
+    second: G_IdleNormalMap_98
+  - first:
+      213: 8340350477543603433
+    second: G_IdleNormalMap_99
+  - first:
+      213: -4941289340746528799
+    second: G_IdleNormalMap_100
+  - first:
+      213: 1709756642233646322
+    second: G_IdleNormalMap_101
+  - first:
+      213: -8366267466897696873
+    second: G_IdleNormalMap_102
+  - first:
+      213: 1574709597841996120
+    second: G_IdleNormalMap_103
+  - first:
+      213: 8897697880914972934
+    second: G_IdleNormalMap_104
+  - first:
+      213: 5173737587522654350
+    second: G_IdleNormalMap_105
+  - first:
+      213: 6012367530700630288
+    second: G_IdleNormalMap_106
+  - first:
+      213: 721114988473593554
+    second: G_IdleNormalMap_107
+  - first:
+      213: 8342779627972921757
+    second: G_IdleNormalMap_108
+  - first:
+      213: -5366654441285300631
+    second: G_IdleNormalMap_109
+  - first:
+      213: -3297628933271441967
+    second: G_IdleNormalMap_110
+  - first:
+      213: -5650394906260920672
+    second: G_IdleNormalMap_111
+  - first:
+      213: -2096958232001955315
+    second: G_IdleNormalMap_112
+  - first:
+      213: -5556571759945781005
+    second: G_IdleNormalMap_113
+  - first:
+      213: 2480216492715324165
+    second: G_IdleNormalMap_114
+  - first:
+      213: -8604091553813934317
+    second: G_IdleNormalMap_115
+  - first:
+      213: -3330034754438314369
+    second: G_IdleNormalMap_116
+  - first:
+      213: -915524325708234849
+    second: G_IdleNormalMap_117
+  - first:
+      213: -5550942464827616795
+    second: G_IdleNormalMap_118
+  - first:
+      213: -2311678830887296094
+    second: G_IdleNormalMap_119
+  - first:
+      213: -5218821572796806086
+    second: G_IdleNormalMap_120
+  - first:
+      213: -377924097692949175
+    second: G_IdleNormalMap_121
+  - first:
+      213: -5385282160789394736
+    second: G_IdleNormalMap_122
+  - first:
+      213: -910153712473567663
+    second: G_IdleNormalMap_123
+  - first:
+      213: -3606933949436129204
+    second: G_IdleNormalMap_124
+  - first:
+      213: -2776600732581147238
+    second: G_IdleNormalMap_125
+  - first:
+      213: 7442654818437516642
+    second: G_IdleNormalMap_126
+  - first:
+      213: -8503073492227386868
+    second: G_IdleNormalMap_127
+  - first:
+      213: 2248711504244677271
+    second: G_IdleNormalMap_128
+  - first:
+      213: -2916279253820096055
+    second: G_IdleNormalMap_129
+  - first:
+      213: 1735000308903874671
+    second: G_IdleNormalMap_130
+  - first:
+      213: -3653716966885099998
+    second: G_IdleNormalMap_131
+  - first:
+      213: -1499472412642730908
+    second: G_IdleNormalMap_132
+  - first:
+      213: -3410916600909301780
+    second: G_IdleNormalMap_133
+  - first:
+      213: -8735543315450575053
+    second: G_IdleNormalMap_134
+  - first:
+      213: 254306338364877947
+    second: G_IdleNormalMap_135
+  - first:
+      213: -6219979477638867838
+    second: G_IdleNormalMap_136
+  - first:
+      213: 385045660839911442
+    second: G_IdleNormalMap_137
+  - first:
+      213: 4198318041296764312
+    second: G_IdleNormalMap_138
+  - first:
+      213: 159636480708841882
+    second: G_IdleNormalMap_139
+  - first:
+      213: 930882022672083286
+    second: G_IdleNormalMap_140
+  - first:
+      213: 4360362878043560319
+    second: G_IdleNormalMap_141
+  - first:
+      213: -2434047120534363637
+    second: G_IdleNormalMap_142
+  - first:
+      213: -1369697534940184862
+    second: G_IdleNormalMap_143
+  - first:
+      213: -6714432037084391894
+    second: G_IdleNormalMap_144
+  - first:
+      213: -8906592022640951947
+    second: G_IdleNormalMap_145
+  - first:
+      213: 2203730704512959986
+    second: G_IdleNormalMap_146
+  - first:
+      213: 111646206159042264
+    second: G_IdleNormalMap_147
+  - first:
+      213: -4469604058620935915
+    second: G_IdleNormalMap_148
+  - first:
+      213: -6607594507290626496
+    second: G_IdleNormalMap_149
+  - first:
+      213: 9073573909047396817
+    second: G_IdleNormalMap_150
+  - first:
+      213: -586783907673563572
+    second: G_IdleNormalMap_151
+  - first:
+      213: 5644028099836472760
+    second: G_IdleNormalMap_152
+  - first:
+      213: -3261136750366824951
+    second: G_IdleNormalMap_153
+  - first:
+      213: -1265257312765937689
+    second: G_IdleNormalMap_154
+  - first:
+      213: -409957793898760293
+    second: G_IdleNormalMap_155
+  - first:
+      213: 3850860744160268585
+    second: G_IdleNormalMap_156
+  - first:
+      213: -8858472798106401188
+    second: G_IdleNormalMap_157
+  - first:
+      213: -1859746972891490587
+    second: G_IdleNormalMap_158
+  - first:
+      213: -1183390930690567374
+    second: G_IdleNormalMap_159
+  - first:
+      213: -8629701118141148729
+    second: G_IdleNormalMap_160
+  - first:
+      213: -8365183285432943560
+    second: G_IdleNormalMap_161
+  - first:
+      213: -6326601717120925516
+    second: G_IdleNormalMap_162
+  - first:
+      213: -5073899961029237634
+    second: G_IdleNormalMap_163
+  - first:
+      213: -768821965502763112
+    second: G_IdleNormalMap_164
+  - first:
+      213: -354508756433853574
+    second: G_IdleNormalMap_165
+  - first:
+      213: -3852840972785929457
+    second: G_IdleNormalMap_166
+  - first:
+      213: 4629144412723320196
+    second: G_IdleNormalMap_167
+  - first:
+      213: 841440374281731021
+    second: G_IdleNormalMap_168
+  - first:
+      213: -2887385232097342665
+    second: G_IdleNormalMap_169
+  - first:
+      213: 4926398071709038221
+    second: G_IdleNormalMap_170
+  - first:
+      213: -4167101799307308110
+    second: G_IdleNormalMap_171
+  - first:
+      213: -1315053481191602436
+    second: G_IdleNormalMap_172
+  - first:
+      213: -3650137424842623650
+    second: G_IdleNormalMap_173
+  - first:
+      213: 3388912243666815362
+    second: G_IdleNormalMap_174
+  - first:
+      213: 4982372630561116231
+    second: G_IdleNormalMap_175
+  - first:
+      213: 5282239682658623090
+    second: G_IdleNormalMap_176
+  - first:
+      213: -6220398608072092780
+    second: G_IdleNormalMap_177
+  - first:
+      213: 1944470278790327285
+    second: G_IdleNormalMap_178
+  - first:
+      213: -1613786240890585691
+    second: G_IdleNormalMap_179
+  - first:
+      213: 1622200327247535091
+    second: G_IdleNormalMap_180
+  - first:
+      213: 5824546634224811345
+    second: G_IdleNormalMap_181
+  - first:
+      213: -2631961823403736184
+    second: G_IdleNormalMap_182
+  - first:
+      213: 7944084112453975215
+    second: G_IdleNormalMap_183
+  - first:
+      213: 1292258766976347393
+    second: G_IdleNormalMap_184
+  - first:
+      213: 3347107467173794073
+    second: G_IdleNormalMap_185
+  - first:
+      213: -6615352081550989272
+    second: G_IdleNormalMap_186
+  - first:
+      213: -1371377667535995131
+    second: G_IdleNormalMap_187
+  - first:
+      213: -4446173016624438036
+    second: G_IdleNormalMap_188
+  - first:
+      213: -4430254191079334853
+    second: G_IdleNormalMap_189
+  - first:
+      213: -2744625742259757895
+    second: G_IdleNormalMap_190
+  - first:
+      213: 7950181227107060903
+    second: G_IdleNormalMap_191
+  - first:
+      213: 4230820042996034058
+    second: G_IdleNormalMap_192
+  - first:
+      213: 969799851477831152
+    second: G_IdleNormalMap_193
+  - first:
+      213: -1758942322276530040
+    second: G_IdleNormalMap_194
+  - first:
+      213: -5562932657739884454
+    second: G_IdleNormalMap_195
+  - first:
+      213: -7846978581722459314
+    second: G_IdleNormalMap_196
+  - first:
+      213: -6847032144981262653
+    second: G_IdleNormalMap_197
+  - first:
+      213: -3326482812461907603
+    second: G_IdleNormalMap_198
+  - first:
+      213: -1622302565276176029
+    second: G_IdleNormalMap_199
+  - first:
+      213: -3987468926861636963
+    second: G_IdleNormalMap_200
+  - first:
+      213: 6150752772830963363
+    second: G_IdleNormalMap_201
+  - first:
+      213: 767973968361949752
+    second: G_IdleNormalMap_202
+  - first:
+      213: 15125955525516738
+    second: G_IdleNormalMap_203
+  - first:
+      213: -5153528998472342090
+    second: G_IdleNormalMap_204
+  - first:
+      213: 1667868901885537725
+    second: G_IdleNormalMap_205
+  - first:
+      213: -5761865350267734191
+    second: G_IdleNormalMap_206
+  - first:
+      213: 7212303847786960508
+    second: G_IdleNormalMap_207
+  - first:
+      213: 1715235666231896099
+    second: G_IdleNormalMap_208
+  - first:
+      213: -5271153729640936457
+    second: G_IdleNormalMap_209
+  - first:
+      213: 3348684638470687158
+    second: G_IdleNormalMap_210
+  - first:
+      213: 7912894500464206788
+    second: G_IdleNormalMap_211
+  - first:
+      213: 4308832872100539582
+    second: G_IdleNormalMap_212
+  - first:
+      213: -1229459371104706492
+    second: G_IdleNormalMap_213
+  - first:
+      213: -9143700623636961740
+    second: G_IdleNormalMap_214
+  - first:
+      213: 5048239849378236035
+    second: G_IdleNormalMap_215
+  - first:
+      213: 1507080198317568483
+    second: G_IdleNormalMap_216
+  - first:
+      213: 4399492889699238020
+    second: G_IdleNormalMap_217
+  - first:
+      213: 4516962870585106956
+    second: G_IdleNormalMap_218
+  - first:
+      213: 1163939532251761800
+    second: G_IdleNormalMap_219
+  - first:
+      213: -7583234408952833911
+    second: G_IdleNormalMap_220
+  - first:
+      213: -2730738063709571296
+    second: G_IdleNormalMap_221
+  - first:
+      213: -4455977240369338744
+    second: G_IdleNormalMap_222
+  - first:
+      213: 4857018215469026132
+    second: G_IdleNormalMap_223
+  - first:
+      213: -3701181816602209186
+    second: G_IdleNormalMap_224
+  - first:
+      213: 6663526807280255680
+    second: G_IdleNormalMap_225
+  - first:
+      213: 7012481410685850344
+    second: G_IdleNormalMap_226
+  - first:
+      213: -6404515661590565148
+    second: G_IdleNormalMap_227
+  - first:
+      213: -8224046490838575490
+    second: G_IdleNormalMap_228
+  - first:
+      213: -2190455022405986976
+    second: G_IdleNormalMap_229
+  - first:
+      213: 9205791926243772147
+    second: G_IdleNormalMap_230
+  - first:
+      213: -8497408242804840433
+    second: G_IdleNormalMap_231
+  - first:
+      213: -3326825783190284411
+    second: G_IdleNormalMap_232
+  - first:
+      213: 3745995230145382802
+    second: G_IdleNormalMap_233
+  - first:
+      213: 8937081859467522937
+    second: G_IdleNormalMap_234
+  - first:
+      213: 1759004837164540266
+    second: G_IdleNormalMap_235
+  - first:
+      213: 7017404420913446285
+    second: G_IdleNormalMap_236
+  - first:
+      213: 6913549037377114495
+    second: G_IdleNormalMap_237
+  - first:
+      213: -1868023552598413298
+    second: G_IdleNormalMap_238
+  - first:
+      213: 1246588899532640969
+    second: G_IdleNormalMap_239
+  - first:
+      213: 4312203632348092879
+    second: G_IdleNormalMap_240
+  - first:
+      213: -9108736083849208433
+    second: G_IdleNormalMap_241
+  - first:
+      213: -2266409143818378065
+    second: G_IdleNormalMap_242
+  - first:
+      213: -1981968590634063345
+    second: G_IdleNormalMap_243
+  - first:
+      213: 1433136473668910007
+    second: G_IdleNormalMap_244
+  - first:
+      213: -5024796169526254726
+    second: G_IdleNormalMap_245
+  - first:
+      213: -6268961136919392533
+    second: G_IdleNormalMap_246
+  - first:
+      213: -4744381099232746171
+    second: G_IdleNormalMap_247
+  - first:
+      213: -1149979271539090651
+    second: G_IdleNormalMap_248
+  - first:
+      213: 5283160212588139682
+    second: G_IdleNormalMap_249
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G_IdleNormalMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae757001b4b477b30800000000000000
+      internalID: 4284976356229863402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97504e40a415db980800000000000000
+      internalID: -8521565541563628167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98020f0e879b45050800000000000000
+      internalID: 5788455349898977417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b0d52422462e70800000000000000
+      internalID: 9090025620914614805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3665db7d7777110800000000000000
+      internalID: 1258606389351572401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639ee744905824a0800000000000000
+      internalID: -6617951054628744343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87b7e18d7e9729e0800000000000000
+      internalID: -1646172876893079670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c22ab400430200800000000000000
+      internalID: 145030002052876674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1566720442c9e54a0800000000000000
+      internalID: -6602668324169488815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81dfb7d1ac2f850800000000000000
+      internalID: 6409407447684683939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd155df73b877720800000000000000
+      internalID: 2843894762297433522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_11
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ca5eff5009cee40800000000000000
+      internalID: 5687078784904571932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b650b1952a61990800000000000000
+      internalID: -7415561232829814016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc567119b7793c30800000000000000
+      internalID: 4339631352693808379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_14
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdd0417ac7314bb0800000000000000
+      internalID: -4953616772507836933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_15
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2700
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e75a0d626376b2e0800000000000000
+      internalID: -2110372508803115031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493976197b5f3df0800000000000000
+      internalID: -198339282954798776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5bb226f37305820800000000000000
+      internalID: 2904882505023468967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ba1b99fde65aa40800000000000000
+      internalID: 5378827236599245597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a0e212404fc30b0800000000000000
+      internalID: -5747450725857883578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee2c260ef1f6180800000000000000
+      internalID: -9120035671811887483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c88f3ab87fabe880800000000000000
+      internalID: -8580571731968685883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a143e86df9d74f00800000000000000
+      internalID: 1101088316325052839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_23
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042d15ffd4052950800000000000000
+      internalID: 6423545803450426368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63196276f19ffb0800000000000000
+      internalID: -4613621815375219004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_25
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4766d8a8cde38b0800000000000000
+      internalID: -5170452834538851133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_26
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5ee039384ef0d70800000000000000
+      internalID: 9011672633150727589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_27
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c509ea2475c321a0800000000000000
+      internalID: -6835402706691488314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1da1c54f9aab6f80800000000000000
+      internalID: -8112202702730973922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_29
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022297616756d6cf0800000000000000
+      internalID: -257438045832666592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_30
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1513c2b515bc9b0800000000000000
+      internalID: -5058860304395316793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_31
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2520
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0156f031675b1fb0800000000000000
+      internalID: -4676047713149234932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d6a7934bda54f0800000000000000
+      internalID: -839117297197591171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79f74b09dff02be0800000000000000
+      internalID: -1503920967879493251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9359f2caada65ec0800000000000000
+      internalID: -3578481904972115042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a88778d522cbb10800000000000000
+      internalID: 1998510119745784472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f93398698995ca0800000000000000
+      internalID: -6027618853944320198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_37
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f2341d03f611d50800000000000000
+      internalID: 6706263575591333690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_38
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efccb6d279bd1a50800000000000000
+      internalID: 6493550140618231783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_39
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3248435a6e093cc30800000000000000
+      internalID: 4378502583022814243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_40
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8076210b0324040b0800000000000000
+      internalID: -5746520347644893432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_41
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c47238a656489900800000000000000
+      internalID: 691379880804381890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c885aa0fe18d8b0800000000000000
+      internalID: -5127314156762395549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_43
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdddf9e328cb59f0800000000000000
+      internalID: -478568878809686600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8de55880d5e370800000000000000
+      internalID: 8351310368004213494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_45
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea581610a8c003f0800000000000000
+      internalID: -936528132602045723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_46
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4724a04cc38c10800000000000000
+      internalID: 2054710433015091167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_47
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2340
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ba69ea54d18ec0800000000000000
+      internalID: -3566335942972491812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6eaeb433c11b840800000000000000
+      internalID: 5237998848251193086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c827602151bbcf9a0800000000000000
+      internalID: -6197873287997525364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b34c52d0f0da360800000000000000
+      internalID: 7182413529868417923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47357acf724ac7eb0800000000000000
+      internalID: -4720717817741618316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b9f814506feb30800000000000000
+      internalID: 4318776481984131996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38844d34cc9510060800000000000000
+      internalID: 6917909236463978627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_54
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0353b84b69465500800000000000000
+      internalID: 384575543316796175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_55
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86460d39ee8e6a30800000000000000
+      internalID: 4210459834040338061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ecc865a15df350800000000000000
+      internalID: 6052083245125527974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_57
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421ee95ab45bb0170800000000000000
+      internalID: 8145803687535501604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd78adbd081b47290800000000000000
+      internalID: -7893489079871174693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_59
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ac5c50ee786070800000000000000
+      internalID: 8099863431913187079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_60
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7624bbd88a5f500800000000000000
+      internalID: 429434666169296843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_61
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df4de2179d75e830800000000000000
+      internalID: 4099821123601780694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_62
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bce93ab35aa3a070800000000000000
+      internalID: 8116518230035131574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_63
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2160
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5af9047b39d7e60800000000000000
+      internalID: 7961682131533407711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b06403328fd520800000000000000
+      internalID: 2729043054838200343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db80126833ab09b50800000000000000
+      internalID: 6597978184554186941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3266459badac100800000000000000
+      internalID: 129156028853265321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_67
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d66c0a6eaff9e940800000000000000
+      internalID: 5326069158910912212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e54fdfff551f97c0800000000000000
+      internalID: -4062504836805999130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0964cbc13010e59a0800000000000000
+      internalID: -6242550920610298224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_70
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f008f018627a9e0800000000000000
+      internalID: -1610276006008975488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_71
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0866afaacaba5490800000000000000
+      internalID: -7756682028499179505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_72
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951d3d5c955285b20800000000000000
+      internalID: 3123287409082749273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_73
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2118315a8e9f44990800000000000000
+      internalID: -7402517109893005038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_74
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f3459288a39890800000000000000
+      internalID: -7452427679564565793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_75
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc97a2b387b4407f0800000000000000
+      internalID: -647309466673710643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_76
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6467ec3e2e8980800000000000000
+      internalID: -8534833404705477280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_77
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3f7330c22b1c40800000000000000
+      internalID: 5484015180146753305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_78
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61934244b8b5b8760800000000000000
+      internalID: 7461157861371164950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_79
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1980
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59f1f42f83021c0800000000000000
+      internalID: -4530558611774007859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177c306328a5f170800000000000000
+      internalID: 8211654365471864599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_81
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000fa3f0f9263ee50800000000000000
+      internalID: 6837417094573387776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d4802dc77d0e30800000000000000
+      internalID: 4471361727946348235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99353a3ab0dafa880800000000000000
+      internalID: -8597462898125352039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f09c4854da90a40800000000000000
+      internalID: 5334985747689180948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0cdbc417d06f80800000000000000
+      internalID: -8115250044202119379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_86
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b652a51fd654a7e0800000000000000
+      internalID: -1755182438626994503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_87
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245d3f4ec00cf5430800000000000000
+      internalID: 3773946174373090626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_88
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50400d061d78b560800000000000000
+      internalID: 7329745927206355036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_89
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b47df9ad1ac550800000000000000
+      internalID: 6181786054458390396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_90
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e970c66f61a96080800000000000000
+      internalID: -9193639664462824989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_91
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e32bc6f2bdd24780800000000000000
+      internalID: -8700147769411951644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_92
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695b79ddb157dfa30800000000000000
+      internalID: 4250682385849890198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_93
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c512c2fcc9bcb24a0800000000000000
+      internalID: -6616971353139699364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_94
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7af2797b876a020800000000000000
+      internalID: 2352700585258493927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_95
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1800
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5feb95f888623f0800000000000000
+      internalID: -925902524110670409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b95097f9201d90800000000000000
+      internalID: -7129152066872037103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_97
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497e5006f5a7fe10800000000000000
+      internalID: 2231434616372099401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c3b7523e5ef910800000000000000
+      internalID: 1873038065345481187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_99
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecfe3cf190eeb370800000000000000
+      internalID: 8340350477543603433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_100
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7016056830d6bb0800000000000000
+      internalID: -4941289340746528799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_101
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc73b08b964ab710800000000000000
+      internalID: 1709756642233646322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_102
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d7a3b01c05eb80800000000000000
+      internalID: -8366267466897696873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_103
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85935cb390e7ad510800000000000000
+      internalID: 1574709597841996120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_104
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601dea6a419fa7b70800000000000000
+      internalID: 8897697880914972934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_105
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80df599ceeccc740800000000000000
+      internalID: 5173737587522654350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_106
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019e08e0a68307350800000000000000
+      internalID: 6012367530700630288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_107
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dead2ae24ae10a00800000000000000
+      internalID: 721114988473593554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_108
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9901b4aed187c370800000000000000
+      internalID: 8342779627972921757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_109
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ecaea2830d585b0800000000000000
+      internalID: -5366654441285300631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_110
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2e4fe4f77c32d0800000000000000
+      internalID: -3297628933271441967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_111
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1620
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a624a315c3c591b0800000000000000
+      internalID: -5650394906260920672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a31b0299b16e2e0800000000000000
+      internalID: -2096958232001955315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0f67f9c6713e2b0800000000000000
+      internalID: -5556571759945781005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bc5662cf7b6220800000000000000
+      internalID: 2480216492715324165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_115
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f4bf77150289880800000000000000
+      internalID: -8604091553813934317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76cffbb80759c1d0800000000000000
+      internalID: -3330034754438314369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f7ee6f9776b43f0800000000000000
+      internalID: -915524325708234849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_118
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e191570d3717f2b0800000000000000
+      internalID: -5550942464827616795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_119
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a32c22e9544befd0800000000000000
+      internalID: -2311678830887296094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_120
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c0d471e650397b0800000000000000
+      internalID: -5218821572796806086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_121
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945a3f4190851caf0800000000000000
+      internalID: -377924097692949175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_122
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da66ee3862a345b0800000000000000
+      internalID: -5385282160789394736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_123
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e820d450c7e53f0800000000000000
+      internalID: -910153712473567663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_124
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40109feea891fdc0800000000000000
+      internalID: -3606933949436129204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_125
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d496348588779d0800000000000000
+      internalID: -2776600732581147238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_126
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d41dedf1f994760800000000000000
+      internalID: 7442654818437516642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_127
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1440
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c021fb4c5b30ff980800000000000000
+      internalID: -8503073492227386868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a96dce237053f10800000000000000
+      internalID: 2248711504244677271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c14632487b4787d0800000000000000
+      internalID: -2916279253820096055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f609869a695f31810800000000000000
+      internalID: 1735000308903874671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_131
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226fefed6c36b4dc0800000000000000
+      internalID: -3653716966885099998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_132
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c9ee509cdc03be0800000000000000
+      internalID: -1499472412642730908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_133
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7715c5c6df9a0d0800000000000000
+      internalID: -3410916600909301780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_134
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c78233ad15c680800000000000000
+      internalID: -8735543315450575053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_135
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c6e52744a778300800000000000000
+      internalID: 254306338364877947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_136
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2849d15be913ea9a0800000000000000
+      internalID: -6219979477638867838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_137
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102bac0df4f75500800000000000000
+      internalID: 385045660839911442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_138
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d7b91d30c634a30800000000000000
+      internalID: 4198318041296764312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_139
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9118dd8884273200800000000000000
+      internalID: 159636480708841882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_140
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659aa2184482bec00800000000000000
+      internalID: 930882022672083286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_141
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7916957fee138c30800000000000000
+      internalID: 4360362878043560319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_142
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02acfd3a07883ed0800000000000000
+      internalID: -2434047120534363637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_143
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1260
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee7924595bddfce0800000000000000
+      internalID: -1369697534940184862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26151903ab81d2a0800000000000000
+      internalID: -6714432037084391894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_145
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d782b9ebd656480800000000000000
+      internalID: -8906592022640951947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_146
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5cd1f5669359e10800000000000000
+      internalID: 2203730704512959986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_147
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d631aa02a5ac8100800000000000000
+      internalID: 111646206159042264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_148
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51141472ac6c8f1c0800000000000000
+      internalID: -4469604058620935915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_149
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046be1dddcb1d44a0800000000000000
+      internalID: -6607594507290626496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_150
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9c50c756fcbed70800000000000000
+      internalID: 9073573909047396817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_151
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e933715235bd7f0800000000000000
+      internalID: -586783907673563572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_152
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd631947ad935e40800000000000000
+      internalID: 5644028099836472760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_153
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e96e576d1eb2d0800000000000000
+      internalID: -3261136750366824951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_154
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7fe1b7d27e07ee0800000000000000
+      internalID: -1265257312765937689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_155
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f2c9fe898f4af0800000000000000
+      internalID: -409957793898760293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_156
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215b2fa171017530800000000000000
+      internalID: 3850860744160268585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_157
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564860ace1601580800000000000000
+      internalID: -8858472798106401188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_158
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6d1b44bf9d036e0800000000000000
+      internalID: -1859746972891490587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_159
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1080
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23315c9e730c39fe0800000000000000
+      internalID: -1183390930690567374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d76f1e842d3880800000000000000
+      internalID: -8629701118141148729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_161
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cfbbe5f16e8eb80800000000000000
+      internalID: -8365183285432943560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b081af02456338a0800000000000000
+      internalID: -6326601717120925516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_163
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74ebfc3ed2e599b0800000000000000
+      internalID: -5073899961029237634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fa0baee789455f0800000000000000
+      internalID: -768821965502763112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_165
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73aefe0a28841bf0800000000000000
+      internalID: -354508756433853574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_166
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0336096c85f78ac0800000000000000
+      internalID: -3852840972785929457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_167
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859b5e21560e3040800000000000000
+      internalID: 4629144412723320196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_168
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbfbb0ff856dab00800000000000000
+      internalID: 841440374281731021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_169
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b012fed62fde7d0800000000000000
+      internalID: -2887385232097342665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_170
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86f26ee1f41e5440800000000000000
+      internalID: 4926398071709038221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_171
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b39565edfa7b26c0800000000000000
+      internalID: -4167101799307308110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_172
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf60fe883ddffbde0800000000000000
+      internalID: -1315053481191602436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_173
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5575e2f95b185dc0800000000000000
+      internalID: -3650137424842623650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_174
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2898bbafab5d70f20800000000000000
+      internalID: 3388912243666815362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_175
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740593f7281f42540800000000000000
+      internalID: 4982372630561116231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ed65f31094e4940800000000000000
+      internalID: 5282239682658623090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_177
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493578c4c64bca9a0800000000000000
+      internalID: -6220398608072092780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_178
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2a939a652cfa10800000000000000
+      internalID: 1944470278790327285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_179
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adbd40d6fdaa99e0800000000000000
+      internalID: -1613786240890585691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_180
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9c145a96338610800000000000000
+      internalID: 1622200327247535091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_181
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dbaa6dd42f4d050800000000000000
+      internalID: 5824546634224811345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_182
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88381a59aa4697bd0800000000000000
+      internalID: -2631961823403736184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_183
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb4a4296e0f3e60800000000000000
+      internalID: 7944084112453975215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_184
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d628b70860fe110800000000000000
+      internalID: 1292258766976347393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_185
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91193f5f180537e20800000000000000
+      internalID: 3347107467173794073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_186
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828230bd45c8134a0800000000000000
+      internalID: -6615352081550989272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_187
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ffc99f643e7fce0800000000000000
+      internalID: -1371377667535995131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_188
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46c2eb2350c42c0800000000000000
+      internalID: -4446173016624438036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_189
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cd70429439482c0800000000000000
+      internalID: -4430254191079334853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_190
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcd637dd6129e9d0800000000000000
+      internalID: -2744625742259757895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_191
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 720
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac02b544b7b45e60800000000000000
+      internalID: 7950181227107060903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa16bc964e6ba30800000000000000
+      internalID: 4230820042996034058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_193
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd0092a3db657d00800000000000000
+      internalID: 969799851477831152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_194
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8888e44f64bf697e0800000000000000
+      internalID: -1758942322276530040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_195
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a589ef1b83e7cc2b0800000000000000
+      internalID: -5562932657739884454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_196
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4395541e8ee91390800000000000000
+      internalID: -7846978581722459314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_197
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef5b09a847af0a0800000000000000
+      internalID: -6847032144981262653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_198
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6104cba185f5d1d0800000000000000
+      internalID: -3326482812461907603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_199
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613286896c6c79e0800000000000000
+      internalID: -1622302565276176029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_200
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0185332aa9a8c0800000000000000
+      internalID: -3987468926861636963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_201
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a6dd0f0ddb5550800000000000000
+      internalID: 6150752772830963363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_202
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a06fc514468aa00800000000000000
+      internalID: 767973968361949752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_203
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd9cf5f9fcb53000800000000000000
+      internalID: 15125955525516738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_204
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5a1623eacfa78b0800000000000000
+      internalID: -5153528998472342090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_205
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdeec4fde5752710800000000000000
+      internalID: 1667868901885537725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_206
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f8a9ddfdb900b0800000000000000
+      internalID: -5761865350267734191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_207
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 540
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76568b1320471460800000000000000
+      internalID: 7212303847786960508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32825df20cdbdc710800000000000000
+      internalID: 1715235666231896099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_209
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc6445c9919d6b0800000000000000
+      internalID: -5271153729640936457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_210
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b94ad4cfeae87e20800000000000000
+      internalID: 3348684638470687158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_211
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3af45bf9f30dd60800000000000000
+      internalID: 7912894500464206788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_212
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc24120bac0ccb30800000000000000
+      internalID: 4308832872100539582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_213
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4406787473510fee0800000000000000
+      internalID: -1229459371104706492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_214
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e99b6abc0b1180800000000000000
+      internalID: -9143700623636961740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_215
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38649237563fe0640800000000000000
+      internalID: 5048239849378236035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_216
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17ebc94793ae410800000000000000
+      internalID: 1507080198317568483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_217
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480416249732e0d30800000000000000
+      internalID: 4399492889699238020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_218
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02aad48cc97fae30800000000000000
+      internalID: 4516962870585106956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_219
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c86e776d4272010800000000000000
+      internalID: 1163939532251761800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_220
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988d8d59b70f2c690800000000000000
+      internalID: -7583234408952833911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_221
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f3f9f2387a1ad0800000000000000
+      internalID: -2730738063709571296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_222
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866f840f403922c0800000000000000
+      internalID: -4455977240369338744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_223
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 360
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b02a85558976340800000000000000
+      internalID: 4857018215469026132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e545a4c5fb2c2acc0800000000000000
+      internalID: -3701181816602209186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_225
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28b3b835a997c50800000000000000
+      internalID: 6663526807280255680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_226
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2d5f570b6515160800000000000000
+      internalID: 7012481410685850344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_227
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee77830f69e17a0800000000000000
+      internalID: -6404515661590565148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_228
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76d4491a415edd80800000000000000
+      internalID: -8224046490838575490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_229
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065550d33c0f991e0800000000000000
+      internalID: -2190455022405986976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_230
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f64be78bfa81cf70800000000000000
+      internalID: 9205791926243772147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_231
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0824207934231a80800000000000000
+      internalID: -8497408242804840433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_232
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5871553939db4d1d0800000000000000
+      internalID: -3326825783190284411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_233
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2998f1f80d27cf330800000000000000
+      internalID: 3745995230145382802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_234
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973362ab994e60c70800000000000000
+      internalID: 8937081859467522937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_235
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61e26d649d396810800000000000000
+      internalID: 1759004837164540266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_236
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d3dc91424d26160800000000000000
+      internalID: 7017404420913446285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_237
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715b1e483cd1ff50800000000000000
+      internalID: 6913549037377114495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_238
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00fe43e9727316e0800000000000000
+      internalID: -1868023552598413298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_239
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 180
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c29699dff5cc4110800000000000000
+      internalID: 1246588899532640969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9d1494b5608db30800000000000000
+      internalID: 4312203632348092879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_241
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9269bac4479180800000000000000
+      internalID: -9108736083849208433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_242
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4220344e81c80e0800000000000000
+      internalID: -2266409143818378065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_243
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a66475112ae74e0800000000000000
+      internalID: -1981968590634063345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_244
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbf0bb970683e310800000000000000
+      internalID: 1433136473668910007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_245
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e4ae9186544ab0800000000000000
+      internalID: -5024796169526254726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_246
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beec0337f0d2009a0800000000000000
+      internalID: -6268961136919392533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_247
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a72de682982eb0800000000000000
+      internalID: -4744381099232746171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_248
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b99d402f37a00f0800000000000000
+      internalID: -1149979271539090651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_IdleNormalMap_249
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a41bc2d83e815940800000000000000
+      internalID: 5283160212588139682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 3c41e11c6be65a9459e3111509deeeb6
+timeCreated: 1523876501
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane.011
+    100004: Plane.012
+    100006: Plane.013
+    100008: Plane.014
+    100010: Plane.015
+    100012: Plane.016
+    100014: Plane.017
+    100016: Plane.018
+    100018: Plane.019
+    100020: Plane.020
+    100022: Plane.021
+    100024: Plane.022
+    100026: Plane.023
+    100028: Plane.024
+    100030: Neons_Atlas_1
+    100032: Neons_Atlas_10
+    100034: Neons_Atlas_11
+    100036: Neons_Atlas_12
+    100038: Neons_Atlas_13
+    100040: Neons_Atlas_14
+    100042: Neons_Atlas_2
+    100044: Neons_Atlas_3
+    100046: Neons_Atlas_4
+    100048: Neons_Atlas_5
+    100050: Neons_Atlas_6
+    100052: Neons_Atlas_7
+    100054: Neons_Atlas_8
+    100056: Neons_Atlas_9
+    400000: //RootNode
+    400002: Plane.011
+    400004: Plane.012
+    400006: Plane.013
+    400008: Plane.014
+    400010: Plane.015
+    400012: Plane.016
+    400014: Plane.017
+    400016: Plane.018
+    400018: Plane.019
+    400020: Plane.020
+    400022: Plane.021
+    400024: Plane.022
+    400026: Plane.023
+    400028: Plane.024
+    400030: Neons_Atlas_1
+    400032: Neons_Atlas_10
+    400034: Neons_Atlas_11
+    400036: Neons_Atlas_12
+    400038: Neons_Atlas_13
+    400040: Neons_Atlas_14
+    400042: Neons_Atlas_2
+    400044: Neons_Atlas_3
+    400046: Neons_Atlas_4
+    400048: Neons_Atlas_5
+    400050: Neons_Atlas_6
+    400052: Neons_Atlas_7
+    400054: Neons_Atlas_8
+    400056: Neons_Atlas_9
+    2100000: Neons_Atlas
+    2300000: Plane.011
+    2300002: Plane.012
+    2300004: Plane.013
+    2300006: Plane.014
+    2300008: Plane.015
+    2300010: Plane.016
+    2300012: Plane.017
+    2300014: Plane.018
+    2300016: Plane.019
+    2300018: Plane.020
+    2300020: Plane.021
+    2300022: Plane.022
+    2300024: Plane.023
+    2300026: Plane.024
+    2300028: Neons_Atlas_1
+    2300030: Neons_Atlas_10
+    2300032: Neons_Atlas_11
+    2300034: Neons_Atlas_12
+    2300036: Neons_Atlas_13
+    2300038: Neons_Atlas_14
+    2300040: Neons_Atlas_2
+    2300042: Neons_Atlas_3
+    2300044: Neons_Atlas_4
+    2300046: Neons_Atlas_5
+    2300048: Neons_Atlas_6
+    2300050: Neons_Atlas_7
+    2300052: Neons_Atlas_8
+    2300054: Neons_Atlas_9
+    3300000: Plane.011
+    3300002: Plane.012
+    3300004: Plane.013
+    3300006: Plane.014
+    3300008: Plane.015
+    3300010: Plane.016
+    3300012: Plane.017
+    3300014: Plane.018
+    3300016: Plane.019
+    3300018: Plane.020
+    3300020: Plane.021
+    3300022: Plane.022
+    3300024: Plane.023
+    3300026: Plane.024
+    3300028: Neons_Atlas_1
+    3300030: Neons_Atlas_10
+    3300032: Neons_Atlas_11
+    3300034: Neons_Atlas_12
+    3300036: Neons_Atlas_13
+    3300038: Neons_Atlas_14
+    3300040: Neons_Atlas_2
+    3300042: Neons_Atlas_3
+    3300044: Neons_Atlas_4
+    3300046: Neons_Atlas_5
+    3300048: Neons_Atlas_6
+    3300050: Neons_Atlas_7
+    3300052: Neons_Atlas_8
+    3300054: Neons_Atlas_9
+    4300000: Plane.024
+    4300002: Plane.023
+    4300004: Plane.022
+    4300006: Plane.021
+    4300008: Plane.020
+    4300010: Plane.019
+    4300012: Plane.018
+    4300014: Plane.017
+    4300016: Plane.016
+    4300018: Plane.015
+    4300020: Plane.014
+    4300022: Plane.013
+    4300024: Plane.012
+    4300026: Plane.011
+    4300028: Neons_Atlas_14
+    4300030: Neons_Atlas_13
+    4300032: Neons_Atlas_12
+    4300034: Neons_Atlas_11
+    4300036: Neons_Atlas_10
+    4300038: Neons_Atlas_9
+    4300040: Neons_Atlas_8
+    4300042: Neons_Atlas_7
+    4300044: Neons_Atlas_6
+    4300046: Neons_Atlas_5
+    4300048: Neons_Atlas_4
+    4300050: Neons_Atlas_3
+    4300052: Neons_Atlas_2
+    4300054: Neons_Atlas_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neons_Atlas
+    second: {fileID: 2100000, guid: 041cccf5b82a1434199b5f8db94dd48d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
