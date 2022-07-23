@@ -22,15 +22,29 @@ public class PlayerMovementSP : MonoBehaviour
     private Vector3 velocity;
     private bool isGround;
 
+    
+        private Animator ani;
+
     private void Awake()
     {
         chara = GetComponent<CharacterController>();
         playerData = GetComponent<PlayerData>();
     }
+
+    void Start()
+        {
+            
+            ani = GetComponent<Animator>();
+        }
     private void Update()
     {
         Movement();
         Test();
+        // float h = Input.GetAxisRaw("Horizontal");
+        //     float v = Input.GetAxisRaw("Vertical");
+        //     ani.SetFloat ("vert",v);
+        //     ani.SetFloat ("hori",h);
+
     }
     
     void Movement()
@@ -40,11 +54,19 @@ public class PlayerMovementSP : MonoBehaviour
         if (horizontal > 0)
         {
             transform.localRotation = Quaternion.Euler(0, 0, 0);
+            ani.SetBool("isMoving",true);
+            
+            ani.SetFloat ("hori",horizontal);
 
         }
         else if (horizontal < 0)
         {
             transform.localRotation = Quaternion.Euler(0, 180, 0);
+            ani.SetBool("isMoving",true);
+        }
+        else
+        {
+            ani.SetBool("isMoving",false);
         }
 
         chara.Move(new Vector3(horizontal, 0, 0) * speed * Time.deltaTime);
@@ -66,6 +88,11 @@ public class PlayerMovementSP : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGround)
         {
             velocity.y = Mathf.Sqrt(-2 * jumpHeight * gravity); //v=sqrt��2gh����
+            ani.SetBool("isJumping",true);
+        }
+        else
+        {
+            ani.SetBool("isJumping",false);
         }
     }
 

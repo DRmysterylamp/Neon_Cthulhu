@@ -81,6 +81,7 @@
      <Compile Include="Assets/Scrip/Singleton.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/highlightAnimated.cs" />
      <Compile Include="Assets/Scrip/AnimControl.cs" />
+     <Compile Include="Assets/Scrip/VirtualCamera.cs" />
      <None Include="Assets/Pixelate/Standard Guide.txt" />
      <None Include="Assets/AmplifyShaderPack/URP Samples/Community ForceShield/ForceShield.shader" />
      <None Include="Assets/AmplifyShaderPack/URP Samples/Substance2018+/Readme.txt" />
