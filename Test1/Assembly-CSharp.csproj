@@ -38,26 +38,39 @@
   <ItemGroup>
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/ForceShieldDestroyBall.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/CameraDepthActivation.cs" />
+     <Compile Include="Assets/BagSystem/Scripts/Item.cs" />
+     <Compile Include="Assets/Scrip/Item/ItemDataList_SO.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/ForceShieldImpactDetection.cs" />
      <Compile Include="Assets/Pixelate/Scripts/PixelateCaptureManager.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/VolumetricSphere.cs" />
+     <Compile Include="Assets/BagSystem/Scripts/InventoryManager.cs" />
      <Compile Include="Assets/Scrip/Lights/VolumetricLight.cs" />
      <Compile Include="Assets/Scrip/SimpleCameraController.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/URPASPVersionInfo.cs" />
      <Compile Include="Assets/Scrip/CharaterData.cs" />
      <Compile Include="Assets/Test/Spawner.cs" />
      <Compile Include="Assets/Scrip/PlayerData.cs" />
+     <Compile Include="Assets/Scrip/DataCollection.cs" />
      <Compile Include="Assets/Scrip/Lights/VolumetricLightRenderer.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SpriteMaskController.cs" />
+     <Compile Include="Assets/BagSystem/Scripts/ItemOnWorld.cs" />
+     <Compile Include="Assets/Scrip/Enums.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Readme/ASPReadme.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/ForceShieldShootBall.cs" />
      <Compile Include="Assets/Pixelate/Scripts/AutoSpriteSlicer.cs" />
+     <Compile Include="Assets/BagSystem/Scripts/ItemOnDrag.cs" />
+     <Compile Include="Assets/BagSystem/Scripts/Slot.cs" />
      <Compile Include="Assets/Scrip/PlayerMovementSP.cs" />
+     <Compile Include="Assets/Scrip/Inventory/InventoryBag_SO.cs" />
      <Compile Include="Assets/Systems/DialogSystem/DialogSystem.cs" />
+     <Compile Include="Assets/Scrip/EventHandler.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Pixelize.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/PlaneClip.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/HDRPASPVersionInfo.cs" />
+     <Compile Include="Assets/BagSystem/Scripts/Inventory.cs" />
+     <Compile Include="Assets/Scrip/Inventory/BluePrintDataList_SO.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/VersionInfo.cs" />
+     <Compile Include="Assets/BagSystem/Player/PlayerMovement.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/CustomRTRainUpdate.cs" />
      <Compile Include="Assets/Puppet/Runtime/Dancer.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SimpleMoveExample.cs" />
@@ -65,21 +78,9 @@
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Smear.cs" />
      <Compile Include="Assets/Scrip/test.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/SRPURPOmniDecalMovement.cs" />
-     <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/highlightAnimated.cs" />
-     <Compile Include="Assets/Scrip/Item/ItemDataList_SO.cs" />
-     <Compile Include="Assets/Scrip/DataCollection.cs" />
-     <Compile Include="Assets/Scrip/Inventory/BluePrintDataList_SO.cs" />
-     <Compile Include="Assets/Scrip/Enums.cs" />
-     <Compile Include="Assets/Scrip/Inventory/InventoryBag_SO.cs" />
-     <Compile Include="Assets/Scrip/EventHandler.cs" />
      <Compile Include="Assets/Scrip/Singleton.cs" />
-     <Compile Include="Assets/BagSystem/Scripts/Item.cs" />
-     <Compile Include="Assets/BagSystem/Scripts/InventoryManager.cs" />
-     <Compile Include="Assets/BagSystem/Scripts/ItemOnWorld.cs" />
-     <Compile Include="Assets/BagSystem/Scripts/ItemOnDrag.cs" />
-     <Compile Include="Assets/BagSystem/Scripts/Slot.cs" />
-     <Compile Include="Assets/BagSystem/Scripts/Inventory.cs" />
-     <Compile Include="Assets/BagSystem/Player/PlayerMovement.cs" />
+     <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/highlightAnimated.cs" />
+     <Compile Include="Assets/Scrip/AnimControl.cs" />
      <None Include="Assets/Pixelate/Standard Guide.txt" />
      <None Include="Assets/AmplifyShaderPack/URP Samples/Community ForceShield/ForceShield.shader" />
      <None Include="Assets/AmplifyShaderPack/URP Samples/Substance2018+/Readme.txt" />
@@ -363,11 +364,11 @@
     <Reference Include="UnityEditor">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="UDP">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0/Runtime/UDP.dll</HintPath>
-    </Reference>
     <Reference Include="DOTween">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="UDP">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0/Runtime/UDP.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

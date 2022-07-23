@@ -40,6 +40,7 @@
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Samples/Scripts/CheckIfInsideBeam.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/MinMaxRangeFloat.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/DynamicOcclusionRaycasting.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/VolumetricLightBeam.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/SkewingHandle.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/EditorPrefsStrings.cs" />
@@ -51,11 +52,15 @@
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/Utils.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/Enums.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Samples/Scripts/FeaturesNotSupportedMessage.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/MeshGenerator.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/BatchingHelper.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/EffectPulse.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/ShaderKeywords.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/DummyMaterial.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/MaterialManager.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Samples/Scripts/CameraToggleBeamVisibility.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/HighlightNullAttribute.cs" />
@@ -66,25 +71,20 @@
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/Noise3D.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/EffectAbstractBase.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/BeamGeometry.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/CachedLightProperties.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/PolygonHelper.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/GlobalMesh.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/MaterialModifier.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/Consts.cs" />
+     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Samples/Scripts/FreeCameraController.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/EffectFlicker.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/VolumetricDustParticles.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/DynamicOcclusionAbstractBase.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/TransformUtils.cs" />
      <Compile Include="Assets/Plugins/VolumetricLightBeam/Scripts/DynamicOcclusionDepthBuffer.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs" />
-     <Compile Include="Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleEPOOutline.cs" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/shadergen_includes_hdrp.txt" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/VolumetricLightBeamShared.cginc" />
      <None Include="Assets/Plugins/VolumetricLightBeam/Shaders/shadergen_includes_urp.txt" />
@@ -291,11 +291,11 @@
     <Reference Include="UnityEditor">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="UDP">
-        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0/Runtime/UDP.dll</HintPath>
-    </Reference>
     <Reference Include="DOTween">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="UDP">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.purchasing.udp@1.2.0/Runtime/UDP.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

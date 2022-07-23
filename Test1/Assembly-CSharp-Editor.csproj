@@ -37,12 +37,12 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Editor/ASPStartup.cs" />
+     <Compile Include="Assets/Pixelate/Scripts/Editor/PixelateEditor.cs" />
      <Compile Include="Assets/Puppet/Editor/DancerEditor.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Editor/ASPPreferences.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Readme/Editor/ASPReadmeEditor.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Editor/ASPPackageManagerHelper.cs" />
      <Compile Include="Assets/AmplifyShaderPack/Assets/Common/Scripts/Editor/ASPStartScreen.cs" />
-     <Compile Include="Assets/Pixelate/Scripts/Editor/PixelateEditor.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -246,6 +246,12 @@
     </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.15f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+        <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
         <HintPath>/Users/guanxinyu/Documents/GitHub/Neon_Cthulhu/Test1/Library/PackageCache/com.unity.collab-proxy@1.15.18/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
